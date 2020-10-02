@@ -1,0 +1,35 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+      -
+        name: Hugo
+        uses: crazy-max/ghaction-hugo@v1
+        with:
+          version: latest
+          extended: true
+          args: --cleanDestinationDir --minify --verbose
+      - name: Check GitHub Pages status
+        uses: crazy-max/ghaction-github-status@v2
+        with:
+          pages_threshold: major_outage
+      - name: Deploy
+        if: success() && github.event_name != 'pull_request'
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: gh-pages
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

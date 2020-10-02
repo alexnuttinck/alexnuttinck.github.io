@@ -1,0 +1,161 @@
+# section information
+section:
+  name: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Docker
+  filter: "docker"
+- name: "kubernetes"
+  filter: kubernetes
+- name: "scala"
+  filter: "scala"
+- name: "helm"
+  filter: "helm"
+- name: GitHub Actions
+  filter: "github-actions"
+- name: Ansible
+  filter: "ansible"
+- name: Vagrant
+  filter: "vagrant"
+- name: ReavealJS
+  filter: "revealjs"
+  
+projects:
+- name: HelmNifi
+  logo: images/projects/helm.png
+  repo: cetic/helm-nifi
+  summary: Helm Chart for Apache Nifi
+  tags: ["helm,kubernetes"]
+
+- name: HelmFadi
+  logo: images/projects/helm.png
+  repo: cetic/helm-fadi
+  summary: Helm Chart for FADI
+  tags: ["helm,kubernetes"]
+
+- name: FADI
+  logo: images/projects/helm.png
+  repo: cetic/fadi
+  summary:  FADI - Ingest, store and analyse big data flows 
+  tags: ["helm","kubernetes","bigdata"]
+
+- name: HelmZabbix
+  logo: images/projects/helm.png
+  repo: cetic/helm-zabbix
+  summary: Helm Chart for Zabbix
+  tags: ["helm,kubernetes"]
+
+- name: HelmCharts
+  logo: images/projects/helm.png
+  repo: cetic/helm-charts
+  summary: Kubernetes Helm charts by @cetic
+  tags: ["helm,kubernetes"]
+
+- name: HelmSwaggerUi
+  logo: images/projects/helm.png
+  repo: cetic/helm-swagger-ui 
+  summary: Helm Chart for Swagger
+  tags: ["helm,kubernetes"]
+
+- name: HelmJob
+  logo: images/projects/helm.png
+  repo: cetic/helm-job 
+  summary: A Helm Chart for DRY k8s jobs 
+  tags: ["helm,kubernetes"]
+
+- name: HelmMicroservice
+  logo: images/projects/helm.png
+  repo: cetic/helm-microservice
+  summary: A Helm Chart for DRY microservice deployments  
+  tags: ["helm,kubernetes"]
+
+- name: HelmPhpLDAPadmin 
+  logo: images/projects/helm.png
+  repo: cetic/helm-phpLDAPadmin 
+  summary: Helm Chart for phpLDAPadmin 
+  tags: ["helm,kubernetes"]
+
+- name: HelmAdminer
+  logo: images/projects/helm.png
+  repo: cetic/helm-adminer
+  summary: Helm Chart for Adminer  
+  tags: ["helm,kubernetes"]
+
+- name: HelmTsaas
+  logo: images/projects/helm.png
+  repo: cetic/helm-tsimulus-saas 
+  summary: Helm Chart for TSimulus as a Service 
+  tags: ["helm,kubernetes"]
+
+- name: HelmPostgresql
+  logo: images/projects/helm.png
+  repo: cetic/helm-postgresql
+  summary: Helm Chart for Postgresql 
+  tags: ["helm,kubernetes"]
+
+- name: HelmPgadmin
+  logo: images/projects/helm.png
+  repo: cetic/helm-pgadmin
+  summary: Helm Chart for Pgadmin
+  tags: ["helm,archived,kubernetes"]
+
+- name: AnsibleRoleTomcat8.5
+  logo: images/projects/ansible.png
+  repo: cetic/ansible-role-tomcat8.5 
+  summary: Ansible Role for Tomcat v8.5 
+  tags: ["ansible"]
+
+- name: AnsibleLiferay
+  logo: images/projects/ansible.png
+  repo: cetic/ ansible-role-liferay
+  summary: Ansible Role for Liferay 
+  tags: ["ansible"]
+
+- name: AnsibleRoleAlfresco
+  logo: images/projects/ansible.png
+  repo: cetic/ansible-role-alfresco
+  summary: Ansible Role for Alfresco
+  tags: ["ansible"]
+
+- name: ArtifactoryVagrant
+  logo: images/projects/vagrant.png
+  repo: cetic/artifactory-vagrant-docker
+  summary: Artifactory Docker installation inside a VirtualBox VM using Vagrant 
+  tags: ["vagrant,docker"]
+
+- name: Tsimulus-ms
+  logo: images/projects/scala.png
+  repo: cetic/tsimulus-ms 
+  summary: A microservice for accessing the realistic time series generator. 
+  tags: ["scala,docker"]
+
+- name: Tsimulus-saas
+  logo: images/projects/scala.png
+  repo: cetic/tsimulus-saas
+  summary: TSimulus As A Service - The project aims at building a REST API in front of the TSimulus framework, and a set of configurable websocket routes to consume the Tsimulus stream. 
+  tags: ["scala,docker,kubernetes"]
+
+- name: Tsimulus-presentation
+  logo: images/projects/revealjs.png
+  repo: cetic/tsimulus-presentation
+  summary:  TSimulus slides presentation.
+  tags: ["revealjs"]
+
+- name: Benchmarktools-presentation
+  logo: images/projects/revealjs.png
+  repo: cetic/benchmarktools-presentation
+  summary: Benchmarktools presentation.
+  tags: ["revealjs"]
+
+- name: DevOps-presentation
+  logo: images/projects/revealjs.png
+  repo: cetic/devops-presentation
+  summary: Slides presentation of an introduction to DevOps.
+  tags: ["revealjs"]
