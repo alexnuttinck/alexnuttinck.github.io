@@ -1,10 +1,7 @@
 # Jetbrains
 /.idea
-/*.iml
+/.vscode
 
 # Hugo
 /public
 resources/
-
-# Custom
-/.dev

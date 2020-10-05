@@ -1,3 +1,4 @@
+---
 # section information
 section:
   name: Projects
@@ -12,11 +13,11 @@ buttons:
   filter: "all"
 - name: Docker
   filter: "docker"
-- name: "kubernetes"
+- name: "Kubernetes"
   filter: kubernetes
-- name: "scala"
+- name: "Scala"
   filter: "scala"
-- name: "helm"
+- name: "Helm"
   filter: "helm"
 - name: GitHub Actions
   filter: "github-actions"
@@ -28,13 +29,13 @@ buttons:
   filter: "revealjs"
   
 projects:
-- name: HelmNifi
+- name: Helm Nifi
   logo: images/projects/helm.png
   repo: cetic/helm-nifi
   summary: Helm Chart for Apache Nifi
   tags: ["helm,kubernetes"]
 
-- name: HelmFadi
+- name: Helm Fadi
   logo: images/projects/helm.png
   repo: cetic/helm-fadi
   summary: Helm Chart for FADI
@@ -46,115 +47,115 @@ projects:
   summary:  FADI - Ingest, store and analyse big data flows 
   tags: ["helm","kubernetes","bigdata"]
 
-- name: HelmZabbix
+- name: Helm Zabbix
   logo: images/projects/helm.png
   repo: cetic/helm-zabbix
   summary: Helm Chart for Zabbix
   tags: ["helm,kubernetes"]
 
-- name: HelmCharts
+- name: Helm Charts Registry
   logo: images/projects/helm.png
   repo: cetic/helm-charts
   summary: Kubernetes Helm charts by @cetic
   tags: ["helm,kubernetes"]
 
-- name: HelmSwaggerUi
+- name: Helm Swagger UI
   logo: images/projects/helm.png
   repo: cetic/helm-swagger-ui 
   summary: Helm Chart for Swagger
   tags: ["helm,kubernetes"]
 
-- name: HelmJob
+- name: Helm k8s Job
   logo: images/projects/helm.png
   repo: cetic/helm-job 
   summary: A Helm Chart for DRY k8s jobs 
   tags: ["helm,kubernetes"]
 
-- name: HelmMicroservice
+- name: Helm k8s deployments
   logo: images/projects/helm.png
   repo: cetic/helm-microservice
   summary: A Helm Chart for DRY microservice deployments  
   tags: ["helm,kubernetes"]
 
-- name: HelmPhpLDAPadmin 
+- name: Helm PhpLDAPadmin 
   logo: images/projects/helm.png
   repo: cetic/helm-phpLDAPadmin 
   summary: Helm Chart for phpLDAPadmin 
   tags: ["helm,kubernetes"]
 
-- name: HelmAdminer
+- name: Helm Adminer
   logo: images/projects/helm.png
   repo: cetic/helm-adminer
   summary: Helm Chart for Adminer  
   tags: ["helm,kubernetes"]
 
-- name: HelmTsaas
+- name: Helm Tsaas
   logo: images/projects/helm.png
   repo: cetic/helm-tsimulus-saas 
   summary: Helm Chart for TSimulus as a Service 
   tags: ["helm,kubernetes"]
 
-- name: HelmPostgresql
+- name: Helm Postgresql
   logo: images/projects/helm.png
   repo: cetic/helm-postgresql
   summary: Helm Chart for Postgresql 
   tags: ["helm,kubernetes"]
 
-- name: HelmPgadmin
+- name: Helm Pgadmin
   logo: images/projects/helm.png
   repo: cetic/helm-pgadmin
   summary: Helm Chart for Pgadmin
   tags: ["helm,archived,kubernetes"]
 
-- name: AnsibleRoleTomcat8.5
+- name: Ansible Role Tomcat8.5
   logo: images/projects/ansible.png
   repo: cetic/ansible-role-tomcat8.5 
   summary: Ansible Role for Tomcat v8.5 
   tags: ["ansible"]
 
-- name: AnsibleLiferay
+- name: Ansible Role Liferay
   logo: images/projects/ansible.png
-  repo: cetic/ ansible-role-liferay
+  repo: cetic/ansible-role-liferay
   summary: Ansible Role for Liferay 
   tags: ["ansible"]
 
-- name: AnsibleRoleAlfresco
+- name: Ansible Role Alfresco
   logo: images/projects/ansible.png
   repo: cetic/ansible-role-alfresco
   summary: Ansible Role for Alfresco
   tags: ["ansible"]
 
-- name: ArtifactoryVagrant
+- name: Artifactory Vagrant
   logo: images/projects/vagrant.png
   repo: cetic/artifactory-vagrant-docker
   summary: Artifactory Docker installation inside a VirtualBox VM using Vagrant 
   tags: ["vagrant,docker"]
 
-- name: Tsimulus-ms
+- name: Tsimulus microservice
   logo: images/projects/scala.png
   repo: cetic/tsimulus-ms 
   summary: A microservice for accessing the realistic time series generator. 
   tags: ["scala,docker"]
 
-- name: Tsimulus-saas
+- name: Tsimulus as a Service
   logo: images/projects/scala.png
   repo: cetic/tsimulus-saas
   summary: TSimulus As A Service - The project aims at building a REST API in front of the TSimulus framework, and a set of configurable websocket routes to consume the Tsimulus stream. 
   tags: ["scala,docker,kubernetes"]
 
-- name: Tsimulus-presentation
+- name: Tsimulus Presentation
   logo: images/projects/revealjs.png
   repo: cetic/tsimulus-presentation
   summary:  TSimulus slides presentation.
   tags: ["revealjs"]
 
-- name: Benchmarktools-presentation
+- name: Benchmarktools Presentation
   logo: images/projects/revealjs.png
   repo: cetic/benchmarktools-presentation
   summary: Benchmarktools presentation.
   tags: ["revealjs"]
 
-- name: DevOps-presentation
+- name: DevOps Presentation
   logo: images/projects/revealjs.png
   repo: cetic/devops-presentation
   summary: Slides presentation of an introduction to DevOps.

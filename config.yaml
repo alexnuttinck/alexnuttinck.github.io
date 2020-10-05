@@ -1,10 +1,10 @@
+---
 baseURL: https://alexnuttinck.dev/
 languageCode: en-us
-title: Alexandre Nuttinck
-theme: toha
+title: "Alexandre Nuttinck"
+theme: "toha"
 canonifyurls: true
 enableRobotsTXT: true
-#googleAnalytics: UA-12516800-8
 disqusShortname: does-not-exist
 enableEmoji: true
 
@@ -19,32 +19,32 @@ markup:
 
 # Custom parameters
 params:
-  gitRepo: https://github.com/hossainemruz/toha-example-site
-  copyright: Alexandre Nuttinck © 2011 - 2020
+  gitRepo: https://github.com/alexnuttinck/alexnuttinck.github.io
+  copyright: Alexandre Nuttinck © 2020
   description: Creating open source software.
-  background: images/background.jpg
+  background: images/background.png
 
   logo:
     favicon: /images/favicon.png
+
+  author:
+    name: "Alexandre Nuttinck"
+    nickname: "Alex"
+    image: "images/avatar.png"
+    greeting: "Hi, I am"
+    contactInfo:
+      email: "contact@alexnuttinck.dev"
+    summary:
+      - "I'm a Research Engineer"
+      - "I'm interested in Distributed Systems and Kubernetes"
+      - "I love to work on opensource projects"
 
   enableBlogPost: false
   enableTOC: true
 
 #  customMenus:
-#    - name: Notes
-#      url: https://hossainnotes.netlify.app/docs/example/
+#  - name: Notes
+#    url: https://hossainnotes.netlify.app/docs/example/
 
   newsletter:
     enable: false
-
-  author:
-    name: Alexandre Nuttinck
-    nickname: alexnuttinck
-    image: images/avatar.png
-    greeting: Hi, I'm
-    contactInfo:
-      email: contact@alexnuttinck.dev
-    summary:
-      - "I'm a Research Engineer"
-      - "I'm interested in Kubernetes and Distributed Systems"
-      - "I love to work on opensource projects"
