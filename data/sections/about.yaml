@@ -14,10 +14,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a research engineer at CETIC, an applied research center in Belgium. I received a master's degree in computer science from the University of Namur, Belgium, in 2017. My main fields of interest concern cloud computing, configuration management and DevOps techniques. 
-  My main activity at CETIC is to participate in Walloon and European research projects in the field of distributed systems. My other mission is also to support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best practices.
-  In my last year of study, I carried out a research internship at INRIA Rennes where I focused on the automation of testing JHipster configurations, a web application generator. (jhipster.tech)
-
+  I am a research engineer at CETIC, an applied research center in Belgium. I received a master's degree in computer science from the University of Namur, Belgium, in 2017. My main fields of interest concern cloud computing, configuration management and DevOps techniques.
 socialLinks:
 - name: GitHub
   icon: "fab fa-github"

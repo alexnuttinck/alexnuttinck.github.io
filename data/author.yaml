@@ -1,0 +1,11 @@
+---
+name: "Alexandre Nuttinck"
+nickname: "Alex"
+image: "images/avatar.png"
+greeting: "Hi, I am"
+contactInfo:
+  email: "contact@alexnuttinck.dev"
+summary:
+  - "I'm a Research Engineer"
+  - "I'm interested in Distributed Systems"
+  - "I love to work on opensource projects"

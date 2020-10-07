@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: CETIC
+    url: "https://www.cetic.be"
+    location: Charleroi Gosselies, Walloon region, Belgium
+    # company overview
+    overview: CETIC is an applied research centre in the field of ICT. CETIC’s mission is to support economic development by transferring the results of the most innovative research in ICT to companies, particularly SMEs. 
+  positions:
+  - designation: Reasearch Engineer
+    start: Sep 2017
+    responsibilities:
+    - participate in Walloon and European research projects in the field of distributed systems. 
+    - support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best practices.
+
+- company:
+    name: Inria (Diverse Team)
+    url: "https://www.inria.fr/en"
+    location: Rennes, France
+    overview: National Institute for Research in Digital Science and Technology.
+  positions:
+  - designation: Research Internship
+    start: Sep 2016
+    end: Jan 2017
+    responsibilities:
+    - improve [JHipster](https://jhipster.github.io/) (a Web App Generator)
+    - extract and model the variability of JHipster.
+    - creation of a testing process for verifying all variants of JHipster (development of numerous testing oracles, strategies for deploying the solution on a grid computing architecture (Grid'5000), storing the results, etc.).
+    - empirical studies on the effectiveness of sampling techniques.

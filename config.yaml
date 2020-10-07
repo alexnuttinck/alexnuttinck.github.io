@@ -8,6 +8,14 @@ enableRobotsTXT: true
 disqusShortname: does-not-exist
 enableEmoji: true
 
+languages:
+  en:
+    languageName: English
+    weight: 1
+  # fr:
+  #   languageName: Français
+  #   weight: 2
+
 markup:
   goldmark:
     renderer:
