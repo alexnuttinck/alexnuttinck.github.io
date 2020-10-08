@@ -27,6 +27,8 @@ buttons:
   filter: "revealjs"
 - name: Publications
   filter: "publications"
+- name: Hugo
+  filter: "hugo"
   
 projects:
 - name: Helm Nifi
@@ -177,3 +179,9 @@ projects:
   timeline: "Sep 2020"
   summary: " The production of huge amount of data and the emergence of new technologies in the industry sector have introduced new requirements for big data management. Many applications need to interact with several heterogeneous data sources to ingest, harmonise (normalise), persist, analyse and synthesize results to enable informed decisions and draw benefits from data. These operations are ensured by different tools and these tools are heterogeneous and not connected with each other. Besides, the whole tool-chain lacks automation in terms of its deployment, its operational workflow and its orchestration for satisfying the elastic and resilient properties needed by Industry. In this paper, we present FADI, a framework for deploying and orchestrating a Big Data management and analysis platform fully composed of open source tools. FADI has been developed through several research projects, namely, BigData@MA, Grinding 4.0, Quality 4.0 and ARTEMTEC where Industry use cases are used for validation purposes."
   tags: ["publications"]
+
+- name: Alex Nuttinck Website
+  logo: images/projects/hugo.png
+  repo: alexnuttinck/alexnuttinck.github.io
+  summary: My personal website using [Hugo framework](https://gohugo.io/) with [toha](https://github.com/hossainemruz/toha) theme.
+  tags: ["hugo"]
