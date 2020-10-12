@@ -1,4 +1,4 @@
-# [alexnuttinck.dev](alexnuttinck.dev)
+# [alexnuttinck.dev](https://alexnuttinck.dev)
 
 My personal website using [Hugo framework](https://gohugo.io/) with [toha](https://github.com/hossainemruz/toha) theme.
 

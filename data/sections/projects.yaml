@@ -44,9 +44,9 @@ projects:
   tags: ["helm,kubernetes"]
 
 - name: FADI
-  logo: images/projects/helm.png
+  logo: images/projects/fadi.png
   repo: cetic/fadi
-  summary:  FADI - Ingest, store and analyse big data flows 
+  summary: FADI - Ingest, store and analyse big data flows 
   tags: ["helm","kubernetes","bigdata"]
 
 - name: Helm Zabbix
