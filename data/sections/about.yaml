@@ -31,3 +31,7 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "contact@alexnuttinck.dev"
+
+- name: Google Scholar
+  icon: "fas fa-book-open"
+  url: "https://scholar.google.com/citations?user=0zs4Kg0AAAAJ&hl=fr"

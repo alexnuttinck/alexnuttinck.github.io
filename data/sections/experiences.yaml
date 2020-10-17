@@ -2,7 +2,7 @@
 section:
   name: Experiences
   enable: true
-  weight: 3
+  weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -19,8 +19,9 @@ experiences:
   - designation: Reasearch Engineer
     start: Sep 2017
     responsibilities:
-    - participate in Walloon and European research projects in the field of distributed systems. 
-    - support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best practices.
+    - "participate in Walloon and European research projects in the field of distributed systems." 
+    - "support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best partices."
+    - "develop [FADI](https://fadi.cetic.be/) a framework for big data analytics based on [Kubernetes](https://kubernetes.io/)."
 
 - company:
     name: Inria Rennes (Diverse Team)
