@@ -44,5 +44,5 @@ skills:
 
 - name: OpenShift
   icon: "images/skills/openshift.png"
-  summary: "Deploy OpenShift okd and apps on it"
+  summary: "Setup an OpenShift okd and deploy several apps with it."
   url: "https://www.okd.io/"

@@ -31,7 +31,6 @@ params:
   copyright: Alexandre Nuttinck © 2020
   description: Creating open source software.
   background: images/background.png
-
   logo:
     favicon: /images/favicon.png
 

@@ -14,7 +14,8 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a research engineer at CETIC, an applied research center in Belgium. I received a master's degree in computer science from the University of Namur, Belgium, in 2017. My main fields of interest concern cloud computing, configuration management and DevOps techniques.
+  I am a research engineer at [CETIC](https://www.cetic.be/), an applied research center in Belgium. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf), Belgium, in 2017. My main fields of interest concern cloud computing, configuration management and DevOps techniques.
+  
 socialLinks:
 - name: GitHub
   icon: "fab fa-github"

@@ -194,10 +194,10 @@ projects:
 
 - name: PaaS Blog Article
   url: "https://www.cetic.be/Optimize-your-costs-and-productivity-by-migrating-to-the-PaaS-use-case"
-  summary: "Optimize your costs and productivity by migrating to the PaaS, a concrete use case with Opal Solutions"
+  summary: "Optimize your costs and productivity by migrating to the PaaS, a concrete use case with Opal Solutions."
   tags: ["publications"]
 
 - name: Cloud Costs Blog Article (FR)
-  url: "cetic.be/Quelques-conseils-et-points-d-attention-pour-estimer-vos-couts-d-infrastructure"
-  summary: "Quelques conseils et points d'attention pour estimer vos coûts d'infrastructure dans le cloud"
+  url: "https://www.cetic.be/Quelques-conseils-et-points-d-attention-pour-estimer-vos-couts-d-infrastructure"
+  summary: "Quelques conseils et points d'attention pour estimer vos coûts d'infrastructure dans le cloud."
   tags: ["publications"]
