@@ -14,7 +14,7 @@ experiences:
     url: "https://www.cetic.be"
     location: Charleroi Gosselies, Walloon region, Belgium
     # company overview
-    overview: CETIC is an applied research centre in the field of ICT. CETIC’s mission is to support economic development by transferring the results of the most innovative research in ICT to companies, particularly SMEs. 
+    overview: CETIC is an applied research center in the field of ICT. CETIC’s mission is to support economic development by transferring the results of the most innovative research in ICT to companies, particularly SMEs. 
   positions:
   - designation: Reasearch Engineer
     start: Sep 2017
@@ -22,6 +22,7 @@ experiences:
     - "participate in Walloon and European research projects in the field of distributed systems." 
     - "support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best partices."
     - "develop opensource projects like [FADI](https://fadi.cetic.be/) a framework for big data analytics based on [Kubernetes](https://kubernetes.io/)."
+    - "work on the infrastructure of the [INAH](https://www.cetic.be/INAH-en) pilot project which aims at creating a Walloon entity for enabling the ethical use of electronic health information."
 
 - company:
     name: Inria Rennes (Diverse Team)
@@ -33,7 +34,8 @@ experiences:
     start: Sep 2016
     end: Jan 2017
     responsibilities:
-    - improve [JHipster](https://jhipster.github.io/) (a Web App Generator)
+    - improve [JHipster](https://jhipster.github.io/) (a Web App Generator).
     - extract and model the variability of JHipster.
     - creation of a testing process for verifying all variants of JHipster (development of numerous testing oracles, strategies for deploying the solution on a grid computing architecture (Grid'5000), storing the results, etc.).
     - empirical studies on the effectiveness of sampling techniques.
+    - scientific publications (Srpinger US, VaMoS).
