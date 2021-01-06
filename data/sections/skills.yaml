@@ -11,7 +11,7 @@ section:
 skills:
 - name: Cloud Computing
   icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc. (and privated clouds sush as Openstack, Proxmox)."
 
 - name: Kubernetes
   icon: "images/skills/kubernetes.png"
@@ -46,3 +46,15 @@ skills:
   icon: "images/skills/openshift.png"
   summary: "Setup an OpenShift okd and deploy several apps with it."
   url: "https://www.okd.io/"
+
+- name: DevOps
+  icon: "images/skills/devops.png"
+  summary: "Master and evangelize the Devops principles and their tools (sush as Vagrant, Terraform, ...)."
+
+- name: Programming Language
+  icon: "images/skills/scala.png"
+  summary: "Know Scala, Python, Java programming languages."
+
+- name: Databases
+  icon: "images/skills/databases.png"
+  summary: "MySQL, PostgreSQL."
