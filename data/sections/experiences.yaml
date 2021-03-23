@@ -10,14 +10,25 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Unamur
+    url: "https://www.unamur.be/en"
+    location: Namur, Walloon region, Belgium
+  positions:
+  - designation: Linux System Administrator
+    start: Apr 2021
+    responsibilities:
+    - "ensure the operation of the IT services and infrastructure."
+
+- company:
     name: CETIC
-    url: "https://www.cetic.be"
+    url: "https://www.cetic.be/?lang=en"
     location: Charleroi Gosselies, Walloon region, Belgium
     # company overview
     overview: CETIC is an applied research center in the field of ICT. CETIC’s mission is to support economic development by transferring the results of the most innovative research in ICT to companies, particularly SMEs. 
   positions:
   - designation: Research Engineer
     start: Sep 2017
+    end: Mar 2021
     responsibilities:
     - "participate in Walloon and European research projects in the field of distributed systems." 
     - "support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best partices."

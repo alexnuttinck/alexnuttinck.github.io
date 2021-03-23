@@ -6,15 +6,15 @@ section:
   weight: 1
   showOnNavbar: true
 
-designation: Devops / R&D Engineer
+designation: Devops / Linux System Administrator
 company:
-  name: CETIC
-  url: "https://www.cetic.be/"
+  name: UNamur
+  url: "https://www.unamur.be/en"
 
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a research engineer at [CETIC](https://www.cetic.be/), an applied research center in Belgium. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf), Belgium, in 2017. My main fields of interest concern cloud computing, configuration management and DevOps techniques.
+  I am a Linux System Administrator at [UNamur](https://www.unamur.be/en). My main fields of interest concern cloud computing, configuration management and DevOps techniques. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf), Belgium, in 2017.
   
 socialLinks:
 - name: GitHub
