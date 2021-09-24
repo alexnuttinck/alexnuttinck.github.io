@@ -33,16 +33,16 @@ buttons:
   filter: "publications"
   
 projects:
+- name: Ansible Role Fusion Directory
+  logo: images/projects/ansible.png
+  repo: UNamur-SIU/ansible-role-fusiondirectory
+  summary: Ansible Role for Fusion Directory
+  tags: ["ansible"]
+
 - name: Helm Nifi
   logo: images/projects/helm.png
   repo: cetic/helm-nifi
   summary: Helm Chart for Apache Nifi
-  tags: ["helm,kubernetes"]
-
-- name: Helm Fadi
-  logo: images/projects/helm.png
-  repo: cetic/helm-fadi
-  summary: Helm Chart for FADI
   tags: ["helm,kubernetes"]
 
 - name: FADI
@@ -50,6 +50,12 @@ projects:
   repo: cetic/fadi
   summary: FADI - Ingest, store and analyse big data flows 
   tags: ["helm","kubernetes","bigdata"]
+
+- name: Helm Fadi
+  logo: images/projects/helm.png
+  repo: cetic/helm-fadi
+  summary: Helm Chart for FADI
+  tags: ["helm,kubernetes"]
 
 - name: Helm Zabbix
   logo: images/projects/helm.png

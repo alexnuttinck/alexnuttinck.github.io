@@ -30,7 +30,7 @@ params:
   gitRepo: https://github.com/alexnuttinck/alexnuttinck.github.io
   copyright: Alexandre Nuttinck © 2020
   description: Creating open source software.
-  background: images/background.png
+  background: images/background.jpg
   logo:
     favicon: /images/favicon.png
 
