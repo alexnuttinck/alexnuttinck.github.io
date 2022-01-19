@@ -47,6 +47,11 @@ skills:
   summary: "Setup an OpenShift okd and deploy several apps with it."
   url: "https://www.okd.io/"
 
+- name: Zabbix
+  icon: "images/skills/zabbix.png"
+  summary: "Zabbix Certified Specialist (5.0)"
+  url: "https://www.zabbix.com/certificate/?firstname=Alexandre&lastname=Nuttinck&certificate=CS-2201-005&version=5.0"
+
 - name: DevOps
   icon: "images/skills/devops.png"
   summary: "Master and evangelize the Devops principles and their tools (sush as Vagrant, Terraform, ...)."
