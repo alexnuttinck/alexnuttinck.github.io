@@ -16,7 +16,7 @@ jobs:
           submodules: true
       -
         name: Hugo
-        uses: crazy-max/ghaction-hugo@v1
+        uses: crazy-max/ghaction-hugo@v2
         with:
           version: latest
           extended: true
