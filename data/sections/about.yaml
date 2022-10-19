@@ -14,7 +14,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a Linux System Administrator at [UNamur](https://www.unamur.be/en). My main fields of interest concern cloud computing, configuration management and DevOps techniques. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf), Belgium, in 2017.
+  I am a Linux System Administrator with five years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
   
 socialLinks:
 - name: GitHub
@@ -35,4 +35,4 @@ socialLinks:
 
 - name: Google Scholar
   icon: "fas fa-book-open"
-  url: "https://scholar.google.com/citations?user=0zs4Kg0AAAAJ&hl=fr"
+  url: "https://scholar.google.com/citations?user=1f6fhkMAAAAJ&hl=en"
