@@ -17,7 +17,11 @@ experiences:
   - designation: Linux System Administrator
     start: Apr 2021
     responsibilities:
-    - "ensure the operation of the IT services and infrastructure."
+    - "ensure the operation of the IT services and infrastructure by administrating more than 200 virtual machines under VMware. I monitor and analyse the performance of the systems with Zabbix."
+    - "design, implement and automate all the installation and configuration of virtual machines (mainly Debian) and containers (Docker)."
+    - "manage and participate in the infrastructure design and implementation for internal projects (for instance: internal ERP development, new IAM solution, ...)."
+    - "apply and teach colleagues to use DevOps practices (gitflow, CI/CD,...)."
+    - "manage and improve the availability trough reverse proxies and load balancers (HAproxy)."
 
 - company:
     name: CETIC

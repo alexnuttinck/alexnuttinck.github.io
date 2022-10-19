@@ -11,7 +11,7 @@ section:
 skills:
 - name: Cloud Computing
   icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc. (and privated clouds sush as Openstack, Proxmox)."
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc. (and privated clouds sush as VMware, Proxmox)."
 
 - name: Kubernetes
   icon: "images/skills/kubernetes.png"
