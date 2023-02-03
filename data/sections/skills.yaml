@@ -15,7 +15,7 @@ skills:
 
 - name: Kubernetes
   icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes."
+  summary: "Capable of deploying, managing applications on Kubernetes."
   url: "https://kubernetes.io/"
 
 - name: Helm
@@ -56,10 +56,10 @@ skills:
   icon: "images/skills/devops.png"
   summary: "Master and evangelize the Devops principles and their tools (sush as Vagrant, Terraform, ...)."
 
-- name: Programming Language
-  icon: "images/skills/scala.png"
-  summary: "Know Scala, Python, Java programming languages."
-
 - name: Databases
   icon: "images/skills/databases.png"
   summary: "MySQL, PostgreSQL."
+
+- name: Programming Language
+  icon: "images/skills/scala.png"
+  summary: "Know Scala, Python, Java programming languages."

@@ -17,11 +17,11 @@ experiences:
   - designation: Linux System Administrator
     start: Apr 2021
     responsibilities:
-    - "ensure the operation of the IT services and infrastructure by administrating more than 200 virtual machines under VMware. I monitor and analyse the performance of the systems with Zabbix."
-    - "design, implement and automate all the installation and configuration of virtual machines (mainly Debian) and containers (Docker)."
-    - "manage and participate in the infrastructure design and implementation for internal projects (for instance: internal ERP development, new IAM solution, ...)."
-    - "apply and teach colleagues to use DevOps practices (gitflow, CI/CD,...)."
-    - "manage and improve the availability trough reverse proxies and load balancers (HAproxy)."
+    - "ensure the operation of the IT services and infrastructure by administrating more than 200 virtual machines under VMware."
+    - "design, implement and automate the installation and configuration of virtual machines (mainly Debian) and containers (Docker)."
+    - "manage and participate in the infrastructure design and implementation for internal projects (for instance: internal ERP developments, new IAM solution, etc.)."
+    - "apply and teach colleagues DevOps practices (gitflow, CI/CD, etc.)."
+    - "manage and improve availability through reverse proxies and load balancers (HAproxy)."
 
 - company:
     name: CETIC
@@ -52,5 +52,5 @@ experiences:
     - improve [JHipster](https://jhipster.github.io/) (a Web App Generator).
     - extract and model the variability of JHipster.
     - creation of a testing process for verifying all variants of JHipster (development of numerous testing oracles, strategies for deploying the solution on a grid computing architecture (Grid'5000), storing the results, etc.).
-    - empirical studies on the effectiveness of sampling techniques.
-    - scientific publications (Springer US, VaMoS).
+    - conduct empirical studies on the effectiveness of sampling techniques.
+    - publish scientific papers in Springer US and VaMoS. 

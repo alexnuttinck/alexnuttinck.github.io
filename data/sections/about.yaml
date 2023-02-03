@@ -14,7 +14,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a Linux System Administrator with five years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
+  I am a Linux System Administrator with more than five years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
   
 socialLinks:
 - name: GitHub
@@ -25,13 +25,9 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/alexandre-nuttinck/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/ANuttinck"
-
 - name: Email
   icon: "fas fa-envelope"
-  url: "contact@alexnuttinck.dev"
+  url: "nuttinck_alexandre@hotmail.com"
 
 - name: Google Scholar
   icon: "fas fa-book-open"

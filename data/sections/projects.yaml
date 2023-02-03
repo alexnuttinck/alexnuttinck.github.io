@@ -59,7 +59,7 @@ projects:
 
 - name: Helm Zabbix
   logo: images/projects/helm.png
-  repo: cetic/helm-zabbix
+  repo: zabbix-community/helm-zabbix
   summary: Helm Chart for Zabbix
   tags: ["helm,kubernetes"]
 
