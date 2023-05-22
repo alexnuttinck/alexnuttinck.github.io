@@ -4,7 +4,7 @@ nickname: "Alex"
 image: "images/avatar.png"
 greeting: "Hi, I am"
 contactInfo:
-  email: "nuttinck_alexandre@hotmail.com"
+  email: "alexandre@nuttinck.be"
 summary:
   - "I'm a Linux System Administrator"
   - "I'm interested in Distributed Systems"
