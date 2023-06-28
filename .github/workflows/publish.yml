@@ -1,35 +1,44 @@
-name: publish
+name: Deploy to Github Pages
 
+# run when a commit is pushed to "source" branch
 on:
   push:
     branches:
-      - master
+    - master
 
 jobs:
-  publish:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      -
-        name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: true
-      -
-        name: Hugo
-        uses: crazy-max/ghaction-hugo@v2
-        with:
-          version: latest
-          extended: true
-          args: --cleanDestinationDir --minify --verbose
-      - name: Check GitHub Pages status
-        uses: crazy-max/ghaction-github-status@v3
-        with:
-          pages_threshold: major_outage
-      - name: Deploy
-        if: success() && github.event_name != 'pull_request'
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: gh-pages
-          build_dir: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # checkout to the commit that has been pushed
+    - uses: actions/checkout@v3
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.6.0
+      with:
+        hugo-version: 'latest'
+        extended: true
+
+    - name: Update Hugo Modules
+      run: hugo mod tidy
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Install node modules
+      run: |
+        hugo mod npm pack
+        npm install
+
+    - name: Build
+      run: hugo --minify
+
+    # push the generated content into the `gh-pages` branch.
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3.9.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages
+        publish_dir: ./public

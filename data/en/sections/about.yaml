@@ -2,9 +2,11 @@
 # section information
 section:
   name: About
+  id: about
   enable: true
   weight: 1
   showOnNavbar: true
+  template: sections/about.html
 
 designation: Devops / Linux System Administrator
 company:
@@ -27,7 +29,7 @@ socialLinks:
 
 - name: Email
   icon: "fas fa-envelope"
-  url: "nuttinck_alexandre@hotmail.com"
+  url: "alexandre@nuttinck.be"
 
 - name: Google Scholar
   icon: "fas fa-book-open"

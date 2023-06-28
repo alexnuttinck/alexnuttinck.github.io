@@ -1,11 +1,11 @@
 # section information
 section:
   name: Experiences
+  id: experiences
   enable: true
   weight: 2
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true 
+  template: sections/experiences.html
 
 # Your experiences
 experiences:
@@ -16,6 +16,7 @@ experiences:
   positions:
   - designation: Linux System Administrator
     start: Apr 2021
+    end: Aug 2023
     responsibilities:
     - "ensure the operation of the IT services and infrastructure by administrating more than 200 virtual machines under VMware."
     - "design, implement and automate the installation and configuration of virtual machines (mainly Debian) and containers (Docker)."

@@ -1,11 +1,11 @@
 # [alexnuttinck.dev](https://alexnuttinck.dev)
 
-My personal website using [Hugo framework](https://gohugo.io/) with [toha](https://github.com/hossainemruz/toha) theme.
+My personal website using [Hugo framework](https://gohugo.io/) with [toha](https://github.com/hugo-toha/toha) theme.
 
 ## Credits
 
-I use these Github Actions to deploy my Hugo website to Github Pages:
+I created my website based on this example hugo static site:
+* https://github.com/hugo-toha/hugo-toha.github.io 
 
-* https://github.com/crazy-max/ghaction-hugo
-* https://github.com/crazy-max/ghaction-github-status
-* https://github.com/crazy-max/ghaction-github-pages
+I use this Github Action to deploy my Hugo website to Github Pages:
+* https://github.com/peaceiris/actions-hugo
