@@ -31,13 +31,11 @@ buttons:
   filter: "hugo"
 - name: Upptime
   filter: "upptime"
-- name: Publications
-  filter: "publications"
   
 projects:
 - name: Ansible Role Fusion Directory
   logo: "/images/sections/projects/ansible.png"
-  repo: UNamur-SIU/ansible-role-fusiondirectory
+  repo: alexnuttinck/ansible-role-fusiondirectory
   summary: Ansible Role for Fusion Directory
   tags: ["ansible"]
 
@@ -173,45 +171,11 @@ projects:
   summary: Slides presentation of an introduction to DevOps.
   tags: ["revealjs"]
 
-- name: "Yo variability! JHipster: a playground for web-apps analyses"
-  timeline: "2017 VAMOS 17 Proceedings of the Eleventh International Workshop on Variability Modelling of Software-intensive Systems Pages 44-51, ACM"
-  url: "https://hal.inria.fr/hal-01468084/document"
-  summary: Though variability is everywhere, there has always been a shortage of publicly available cases for assessing variability-aware tools and techniques as well as supports for teaching variability-related concepts. Historical software product lines contains industrial secrets their owners do not want to disclose to a wide audience. The open source community contributed to large-scale cases such as Eclipse, Linux kernels, or web-based plugin systems (Drupal, WordPress). To assess accuracy of sampling and prediction approaches (bugs, performance), a case where all products can be enumerated is desirable. As configuration issues do not lie within only one place but are scattered across technologies and assets, a case exposing such diversity is an additional asset. To this end, we present in this paper our efforts in building an explicit product line on top of JHipster, an industrial open-source Web-app configurator that is both manageable in terms of configurations (≈ 163,000) and diverse in terms of technologies used. We present our efforts in building a variability-aware chain on top of JHipster's configurator and lessons learned using it as a teaching case at the University of Rennes. We also sketch the diversity of analyses that can be performed with our infrastructure as well as early issues found using it. Our long term goal is both to support students and researchers studying variability analysis and JHipster developers in the maintenance and evolution of their tools.
-  tags: ["publications"]
-
-- name: "Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack "
-  timeline: " Jul 17, 2018 Empirical Software Engineering, Springer US "
-  url: "https://link.springer.com/article/10.1007/s10664-018-9635-4"
-  summary: "Many approaches for testing configurable software systems start from the same assumption: it is impossible to test all configurations. This motivated the definition of variability-aware abstractions and sampling techniques to cope with large configuration spaces. Yet, there is no theoretical barrier that prevents the exhaustive testing of all configurations by simply enumerating them if the effort required to do so remains acceptable. Not only this: we believe there is a lot to be learned by systematically and exhaustively testing a configurable system. In this case study, we report on the first ever endeavour to test all possible configurations of the industry-strength, open source configurable software system JHipster, a popular code generator for web applications. We built a testing scaffold for the 26,000+ configurations of JHipster using a cluster of 80 machines during 4 nights for a total of 4,376 hours (182 days) CPU time. We find that 35.70% configurations fail and we identify the feature interactions that cause the errors. We show that sampling strategies (like dissimilarity and 2-wise): (1) are more effective to find faults than the 12 default configurations used in the JHipster continuous integration; (2) can be too costly and exceed the available testing budget. We cross this quantitative analysis with the qualitative assessment of JHipster’s lead developers."
-  tags: ["publications"]
-
-- name: "FADI - A Deployment Framework for Big Data Management and Analytics"
-  timeline: "Sep 2020"
-  url: "https://ieeexplore.ieee.org/document/9338535"
-  summary: " The production of huge amount of data and the emergence of new technologies in the industry sector have introduced new requirements for big data management. Many applications need to interact with several heterogeneous data sources to ingest, harmonise (normalise), persist, analyse and synthesize results to enable informed decisions and draw benefits from data. These operations are ensured by different tools and these tools are heterogeneous and not connected with each other. Besides, the whole tool-chain lacks automation in terms of its deployment, its operational workflow and its orchestration for satisfying the elastic and resilient properties needed by Industry. In this paper, we present FADI, a framework for deploying and orchestrating a Big Data management and analysis platform fully composed of open source tools. FADI has been developed through several research projects, namely, BigData@MA, Grinding 4.0, Quality 4.0 and ARTEMTEC where Industry use cases are used for validation purposes."
-  tags: ["publications"]
-
-- name: "Automatic build and deploy with OpenShift and GitLab CI"
-  timeline: "2018, Issue 47 ADMIN Magazine"
-  url: "https://www.admin-magazine.com/Archive/2018/47/Automatic-build-and-deploy-with-OpenShift-and-GitLab-CI"
-  summary: "Releasing software is usually a time-consuming and cumbersome process for developers. OpenShift, an open source container application platform, paired with the GitLab continuous integration and continuous delivery (CI/CD) tool can help developers be more productive by improving software release cycles. OpenShift provides a self-service platform that allows you to create, modify, and deploy applications on demand, thus enabling faster development and release life cycles. With these tools, developers can be more focused on application development than on the operational details. With this article, I aim to demonstrate how to set up a CI/CD process quickly on OpenShift and how to integrate it into developer workflows. In the end, you will have all the information you need in hand to create an application that is built and deployed automatically at each commit."
-  tags: ["publications"]
-
 - name: Alex Nuttinck Website
   logo: /images/sections/projects/hugo.png
   repo: alexnuttinck/alexnuttinck.github.io
   summary: My personal website using [Hugo framework](https://gohugo.io/) with [toha](https://github.com/hossainemruz/toha) theme.
   tags: ["hugo"]
-
-- name: PaaS Blog Article
-  url: "https://www.cetic.be/Optimize-your-costs-and-productivity-by-migrating-to-the-PaaS-use-case"
-  summary: "Optimize your costs and productivity by migrating to the PaaS, a concrete use case with Opal Solutions."
-  tags: ["publications"]
-
-- name: Cloud Costs Blog Article (FR)
-  url: "https://www.cetic.be/Quelques-conseils-et-points-d-attention-pour-estimer-vos-couts-d-infrastructure"
-  summary: "Quelques conseils et points d'attention pour estimer vos coûts d'infrastructure dans le cloud."
-  tags: ["publications"]
 
 - name: Status Page using Upptime
   logo: /images/sections/projects/upptime.png

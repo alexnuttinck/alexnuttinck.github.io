@@ -10,6 +10,13 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: iMio
+    url: "https://www.imio.be/"
+    location: Les Isnes, Walloon region, Belgium
+  positions:
+  - designation: DevOps Engineer
+    start: Aug 2023
+- company:
     name: Unamur
     url: "https://www.unamur.be/en"
     location: Namur, Walloon region, Belgium

@@ -8,10 +8,10 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Devops / Linux System Administrator
+designation: Devops Engineer
 company:
-  name: UNamur
-  url: "https://www.unamur.be/en"
+  name: iMio
+  url: "https://www.imio.be/"
 
 #resume: "files/resume.pdf"
 

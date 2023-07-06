@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master's degree in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2015-2017
+  institution:
+    name: University of Namur
+    url: "https://www.unamur.be/"
+- name: Bachelor's degree in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2011-2015
+  institution:
+    name: University of Namur
+    url: "https://www.unamur.be/"
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2005-2011
+  institution:
+    name: Collège Saint Guibert de Gembloux
+    url: "https://www.collegesaintguibert.be"
