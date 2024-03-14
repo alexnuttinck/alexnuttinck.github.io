@@ -8,7 +8,7 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-designation: Devops Engineer
+designation: Devops Team Lead
 company:
   name: iMio
   url: "https://www.imio.be/"
@@ -16,7 +16,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a Linux System Administrator with six years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
+  I am a Linux System Administrator with seven years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
   
 socialLinks:
 - name: GitHub

@@ -33,6 +33,18 @@ buttons:
   filter: "upptime"
   
 projects:
+- name: Helm Plausible Analytics
+  logo: /images/sections/projects/helm.png
+  repo: IMIO/helm-plausible-analytics
+  summary: Helm Chart for Plausible Analytics
+  tags: ["helm,kubernetes"]
+
+- name: Helm smtp4dev
+  logo: /images/sections/projects/helm.png
+  repo: IMIO/helm-smtp4dev
+  summary: Helm Chart for smtp4dev
+  tags: ["helm,kubernetes"]
+
 - name: Ansible Role Fusion Directory
   logo: "/images/sections/projects/ansible.png"
   repo: alexnuttinck/ansible-role-fusiondirectory
