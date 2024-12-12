@@ -73,6 +73,10 @@ params:
   # Configure various features of this theme
   features:
     # Enable dark theme
+    theme:
+      light: true # enable light theme. default "true"
+      dark: true # enable dark theme. default "true"
+      defaultTheme: systel # can be either light, dark or system. default "system"
     darkMode:
       enable: true
       services:
@@ -254,7 +258,6 @@ params:
         plyr:
           # options doc: https://github.com/sampotts/plyr#options
           # fullscreen: true
-
 
   # Provide footer configuration.
   footer:
