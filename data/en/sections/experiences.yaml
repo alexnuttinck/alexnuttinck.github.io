@@ -16,6 +16,12 @@ experiences:
   positions:
   - designation: DevOps Team Lead
     start: Jan 2024
+    responsibilities:
+    - "lead the DevOps team with a focus on infrastructure modernization and service reliability."
+    - "design and deploy a centralized SSO solution for all iMio applications using Keycloak."
+    - "migrate iMio applications and services to Kubernetes."
+    - "work on CI/CD mutualisation across teams and projects."
+    - "deploy and manage multi-tenant Odoo instances."    
   - designation: DevOps Engineer
     start: Aug 2023
 - company:
