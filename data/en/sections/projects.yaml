@@ -31,8 +31,22 @@ buttons:
   filter: "hugo"
 - name: Upptime
   filter: "upptime"
+- name: CI/CD
+  filter: "cicd"
   
 projects:
+- name: Helm Odoo
+  logo: /images/sections/projects/helm.png
+  repo: IMIO/helm-odoo
+  summary: Helm Chart for Odoo
+  tags: ["helm,kubernetes"]
+
+- name: GHA
+  logo: /images/sections/projects/gha.png
+  repo: IMIO/gha
+  summary: mutualized github actions for iMio.
+  tags: ["cicd"]
+
 - name: Helm Plausible Analytics
   logo: /images/sections/projects/helm.png
   repo: IMIO/helm-plausible-analytics
