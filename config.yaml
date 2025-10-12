@@ -134,7 +134,7 @@ params:
         giscus:
           repo: alexnuttinck/alexnuttinck.github.io
           repoID: MDEwOlJlcG9zaXRvcnkzMDA1ODY1ODE=
-          category: General
+          category: Announcements
           categoryID: DIC_kwDOEeqWVc4CwjK0
           theme: light
           map: pathname
