@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: Adventures in Uptime
     identifier: adventures-in-uptime
-    weight: 500
+    weight: 100
 ---
 
 Adventures in Uptime is a comic series born from real-life stories I’ve experienced during my years working in IT as a sysadmin and DevOps engineer.
