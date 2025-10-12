@@ -9,6 +9,10 @@ contactInfo:
   email: "alexandre@nuttinck.be"
   github: "alexnuttinck"
   linkedin: "alexandre-nuttinck"
+  mastodon:
+    icon: "mastodon"
+    url: "https://k8s.social/@alexnuttinck"
+    text: "alexnuttinck@k8s.social"
 
 summary:
   - "I'm a Linux System Administrator"

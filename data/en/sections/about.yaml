@@ -31,6 +31,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "alexandre@nuttinck.be"
 
+- name: Mastodon
+  icon: "fab fa-mastodon"
+  url: "https://k8s.social/@alexnuttinck"
+
 - name: Google Scholar
   icon: "fas fa-book-open"
   url: "https://scholar.google.com/citations?user=1f6fhkMAAAAJ&hl=en"
