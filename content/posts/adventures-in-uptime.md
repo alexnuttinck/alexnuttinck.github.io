@@ -18,8 +18,7 @@ It’s a humorous take on the sometimes absurd, always unpredictable world of te
 I wanted to capture those everyday anecdotes we all laugh about later. The kind of moments that every engineer, sysadmin, or office worker has lived at least once.
 So I decided to turn them into comics.
 
-Each story is told in four panels, short and punchy, like a slice of life from the trenches of uptime.
-Sometimes the comics are purely technical, sometimes they poke fun at office culture, but they all come from real experiences (mine or those shared by colleagues).
+Each story is told in four panels, short and punchy. Sometimes the comics are purely technical, sometimes they poke fun at office culture, but they all come from real experiences (mine or those shared by colleagues).
 
 I also wanted to explore what’s possible with AI, using tools like Sora, to generate visuals that bring these moments to life while keeping that clean, expressive comic style I love.
 
