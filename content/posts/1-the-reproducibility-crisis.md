@@ -20,7 +20,7 @@ So I asked the classic first question:
 “Can I get access to the dev environment?”
 
 The answer? A USB key.
-Inside it, a virtual machine image, several gigabytes of it, along with a Word document as the only piece of documentation. No Git repository, no configuration management, no version control.
+Inside it, a virtual machine image, several gigabytes of it, along with a Word document as the only piece of documentation for the setup. No Git repository, no configuration management, ...
 
 That same USB key was being passed from developer to developer like some kind of sacred artifact.
 When one person made changes to the environment, they’d just copy it back to the USB and share it again.
@@ -35,4 +35,4 @@ At that moment, I knew there was going to be a lot of work ahead. 😅
 
 Moral of the story: If your dev environment fits on a USB stick, it’s not reproducible: it’s portable chaos...
 
-What's the most "creative" development setup you've encountered in your career? Share your own USB stick horror stories!
+What's the most "creative" development setup you've encountered in your career?
