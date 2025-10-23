@@ -35,4 +35,6 @@ At that moment, I knew there was going to be a lot of work ahead. 😅
 
 Moral of the story: If your dev environment fits on a USB stick, it’s not reproducible: it’s portable chaos...
 
-What's the most "creative" development setup you've encountered in your career?
+---
+
+And you, what's the most "creative" development setup you've encountered in your career?

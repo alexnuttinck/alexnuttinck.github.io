@@ -1,6 +1,6 @@
 ---
 title: "Adventures in Uptime"
-date: 2025-10-12T10:00:00+02:00
+date: 2025-10-12T09:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
 description: Adventures in Uptime is a humorous comic series inspired by real-life moments from my IT career as a sysadmin and DevOps engineer. Each story is told in four panels, capturing the funny, frustrating, and all-too-familiar side of tech life. I created it to share my experiences with humor, while experimenting with what AI can bring to creative storytelling.
 theme: Toha
