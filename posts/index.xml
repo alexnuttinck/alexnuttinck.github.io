@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Oct 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Blue Screen of Container Death</title><link>https://alexnuttinck.dev/posts/3-the-blue-screen-of-container-death/</link><pubDate>Thu, 23 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/3-the-blue-screen-of-container-death/</guid><description>&lt;p&gt;It will be available soon! 😉​&lt;/p&gt;</description></item><item><title>Cloud Loops</title><link>https://alexnuttinck.dev/posts/2-cloud-loops/</link><pubDate>Sun, 19 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/2-cloud-loops/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/2-cloud-loops.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Nov 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Blue Screen of Container Death</title><link>https://alexnuttinck.dev/posts/3-the-blue-screen-of-container-death/</link><pubDate>Wed, 29 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/3-the-blue-screen-of-container-death/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/3-the-blue-screen-of-container-death.png"
+alt="Adventures in Uptime - The Blue Screen of Container Death"
+&gt;
+&lt;p&gt;It started as a new and exciting mission.
+The client needed help setting up proper CI/CD pipelines and introducing DevOps best practices. Everything sounded great.&lt;/p&gt;
+&lt;p&gt;Then came the small detail that hadn’t been mentioned during the initial discussions.&lt;/p&gt;
+&lt;p&gt;“Oh, by the way, our application runs on Windows… and we use Windows containers.”&lt;/p&gt;
+&lt;p&gt;I froze for a second.
+Windows… containers? I didn’t even know those existed before that project.&lt;/p&gt;</description></item><item><title>Cloud Loops</title><link>https://alexnuttinck.dev/posts/2-cloud-loops/</link><pubDate>Wed, 22 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/2-cloud-loops/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/2-cloud-loops.png"
 alt="Adventures in Uptime - Cloud Loops"
 &gt;
 &lt;p&gt;It happened during a mission for a client.
@@ -6,7 +14,7 @@ They had decided to move everything to AWS, hoping to scale faster and more easi
 &lt;p&gt;At first, everything looked perfect. Deployments were smoother, scaling was instant, and everyone was proud of how modern it all felt.
 The promise of “infinite scalability” seemed within reach.&lt;/p&gt;
 &lt;p&gt;But then, the invoices started growing.
-Each month, the costs climbed higher, and every time the cluster expanded, the bill followed.&lt;/p&gt;</description></item><item><title>The Reproducibility Crisis</title><link>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</link><pubDate>Sun, 12 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</guid><description>&lt;p&gt;This one goes back to one of my very first missions.
+Each month, the costs climbed higher, and every time the cluster expanded, the bill followed.&lt;/p&gt;</description></item><item><title>The Reproducibility Crisis</title><link>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</link><pubDate>Wed, 15 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</guid><description>&lt;p&gt;This one goes back to one of my very first missions.
 I arrived at the client’s office, full of energy, ready to dive into their development environment.&lt;/p&gt;
 &lt;p&gt;So I asked the classic first question:&lt;/p&gt;
 &lt;p&gt;“Can I get access to the dev environment?”&lt;/p&gt;
