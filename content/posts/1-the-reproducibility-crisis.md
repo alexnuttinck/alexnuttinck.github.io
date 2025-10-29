@@ -1,6 +1,6 @@
 ---
 title: "The Reproducibility Crisis"
-date: 2025-10-12T10:00:00+02:00
+date: 2025-10-15T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
 description: Adventures in Uptime 1 - The Reproducibility Crisis
 theme: Toha
