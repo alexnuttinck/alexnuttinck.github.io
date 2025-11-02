@@ -28,3 +28,5 @@ It’s my way of saying: even when systems crash, coffee spills, and priorities 
 Here is the cover:
 
 {{< img src="/posts/adventures-in-uptime/cover.png" title="Adventures in Uptime - Cover" >}}
+
+Read the first episode here: [The Reproducibility Crisis](/posts/1-the-reproducibility-crisis/).
