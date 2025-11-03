@@ -12,7 +12,7 @@ menu:
     weight: 4
 ---
 
-{{< img src="/posts/4-the-million-dollar-mistake.png" title="Adventures in Uptime - The Million-Dollar Mistake" >}}
+{{< img src="/posts/adventures-in-uptime/4-the-million-dollar-mistake.png" title="Adventures in Uptime - The Million-Dollar Mistake" >}}
 
 A major project had just been approved: a collaboration between several partners, with a generous budget to set up new infrastructure.
 One partner was in charge of purchasing the servers and hosting them in their datacenter.
