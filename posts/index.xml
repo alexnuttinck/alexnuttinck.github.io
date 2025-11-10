@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Nov 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Million-Dollar Mistake</title><link>https://alexnuttinck.dev/posts/4-the-million-dollar-mistake/</link><pubDate>Mon, 03 Nov 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/4-the-million-dollar-mistake/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/4-the-million-dollar-mistake.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 17 Nov 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The Day Sysadmins Quit</title><link>https://alexnuttinck.dev/posts/5-the-day-sysadmins-quit/</link><pubDate>Mon, 10 Nov 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/5-the-day-sysadmins-quit/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/5-the-day-sysadmins-quit.png"
+alt="Adventures in Uptime - The Day Sysadmins Quit"
+&gt;
+&lt;p&gt;This story is inspired by something very real: the invisible work of system administrators.&lt;/p&gt;
+&lt;p&gt;Their job isn’t to ship new features or flashy updates, it’s to make sure that everything just works.
+Servers stay up, backups run, emails flow, and systems stay secure.
+Most of it happens quietly, behind the scenes, where no one really notices&amp;hellip; until something breaks.&lt;/p&gt;
+&lt;p&gt;Unfortunately, some managers don’t see that.
+When they don’t understand the technical side, they think &amp;ldquo;nothing’s happening.&amp;rdquo;
+Micromanagement takes over, trust disappears, and appreciation fades.
+And eventually, the sysadmins decide to leave. Because, let’s be honest, there’s no shortage of work for skilled people elsewhere.&lt;/p&gt;</description></item><item><title>The Million-Dollar Mistake</title><link>https://alexnuttinck.dev/posts/4-the-million-dollar-mistake/</link><pubDate>Mon, 03 Nov 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/4-the-million-dollar-mistake/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/4-the-million-dollar-mistake.png"
 alt="Adventures in Uptime - The Million-Dollar Mistake"
 &gt;
 &lt;p&gt;A major project had just been approved: a collaboration between several partners, with a generous budget to set up new infrastructure.
