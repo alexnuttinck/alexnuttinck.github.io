@@ -12,7 +12,7 @@ menu:
     weight: 7
 ---
 
-{{< img src="/posts/adventures-in-uptime/the-ai-title-generator.png" title="Adventures in Uptime - The AI Title Generator" >}}
+{{< img src="/posts/adventures-in-uptime/7-ai-title-generator.png" title="Adventures in Uptime - The AI Title Generator" >}}
 
 I was browsing LinkedIn and a few other platforms, looking for sysadmin or system engineer positions.
 Nothing. Or almost nothing.
