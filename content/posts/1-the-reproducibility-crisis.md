@@ -12,6 +12,8 @@ menu:
     weight: 1
 ---
 
+{{< img src="/posts/adventures-in-uptime/1-the-reproducibility-crisis.png" title="Adventures in Uptime - The Reproducibility Crisis" >}}
+
 This one goes back to one of my very first missions.
 I arrived at the client’s office, full of energy, ready to dive into their development environment.
 
@@ -30,8 +32,6 @@ When I asked if they used Docker, Ansible, or anything to make the setup reprodu
 “Why bother? We just share the VM around. It’s reproducible enough, right?”
 
 At that moment, I knew there was going to be a lot of work ahead. 😅
-
-{{< img src="/posts/adventures-in-uptime/1-the-reproducibility-crisis.png" title="Adventures in Uptime - The Reproducibility Crisis" >}}
 
 Moral of the story: If your dev environment fits on a USB stick, it’s not reproducible: it’s portable chaos...
 

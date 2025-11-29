@@ -16,8 +16,7 @@ company:
 #resume: "files/resume.pdf"
 
 summary: |
-  I am a Linux System Administrator with seven years of professional experience. I received a master's degree in computer science from the [University of Namur](https://www.unamur.be/en/inf) in 2017. My main fields of interest concern cloud technologies, open-source solutions and DevOps techniques.
-  
+  Linux System Administrator & DevOps Lead with 8+ years of experience in designing, operating, and improving modern infrastructure. I hold a Master's degree in Computer Science from the University of Namur (2017), and my work focuses on cloud technologies, open-source ecosystems, and DevOps practices that help teams deliver more reliably and efficiently. Outside of work, I'm a proud dad of two who enjoys comics and board games.
 socialLinks:
 - name: GitHub
   icon: "fab fa-github"
@@ -38,3 +37,7 @@ socialLinks:
 - name: Google Scholar
   icon: "fas fa-book-open"
   url: "https://scholar.google.com/citations?user=1f6fhkMAAAAJ&hl=en"
+
+- name: RSS
+  icon: "fas fa-rss"
+  url: "https://alexnuttinck.dev/index.xml"
