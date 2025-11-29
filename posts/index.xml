@@ -48,7 +48,10 @@ They had decided to move everything to AWS, hoping to scale faster and more easi
 &lt;p&gt;At first, everything looked perfect. Deployments were smoother, scaling was instant, and everyone was proud of how modern it all felt.
 The promise of “infinite scalability” seemed within reach.&lt;/p&gt;
 &lt;p&gt;But then, the invoices started growing.
-Each month, the costs climbed higher, and every time the cluster expanded, the bill followed.&lt;/p&gt;</description></item><item><title>The Reproducibility Crisis</title><link>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</link><pubDate>Wed, 15 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</guid><description>&lt;p&gt;This one goes back to one of my very first missions.
+Each month, the costs climbed higher, and every time the cluster expanded, the bill followed.&lt;/p&gt;</description></item><item><title>The Reproducibility Crisis</title><link>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</link><pubDate>Wed, 15 Oct 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/1-the-reproducibility-crisis.png"
+alt="Adventures in Uptime - The Reproducibility Crisis"
+&gt;
+&lt;p&gt;This one goes back to one of my very first missions.
 I arrived at the client’s office, full of energy, ready to dive into their development environment.&lt;/p&gt;
 &lt;p&gt;So I asked the classic first question:&lt;/p&gt;
 &lt;p&gt;“Can I get access to the dev environment?”&lt;/p&gt;
