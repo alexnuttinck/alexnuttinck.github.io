@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alexandre Nuttinck</title><link>https://alexnuttinck.dev/</link><description>Recent content on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Dec 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>AI Title Generator</title><link>https://alexnuttinck.dev/posts/7-ai-title-generator/</link><pubDate>Mon, 24 Nov 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/7-ai-title-generator/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/7-ai-title-generator.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alexandre Nuttinck</title><link>https://alexnuttinck.dev/</link><description>Recent content on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Dec 2025 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>The Accidental Production</title><link>https://alexnuttinck.dev/posts/8-the-accidental-production/</link><pubDate>Mon, 01 Dec 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/8-the-accidental-production/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/8-the-accidental-production.png"
+alt="Adventures in Uptime - The Accidental Production"
+&gt;
+&lt;p&gt;It started as a simple mission: build a Kubernetes POC to explore the benefits and rethink the current architecture.
+The demo worked, the checklist was green, everyone was happy.&lt;/p&gt;
+&lt;p&gt;We made it clear to the client:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;This is only a demo environment, nothing critical.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They nodded, satisfied.
+We moved on.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A few weeks later, the phone rang.
+It was the same client. Except this time, they didn’t sound calm at all. 😨&lt;/p&gt;</description></item><item><title>AI Title Generator</title><link>https://alexnuttinck.dev/posts/7-ai-title-generator/</link><pubDate>Mon, 24 Nov 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/7-ai-title-generator/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/7-ai-title-generator.png"
 alt="Adventures in Uptime - The AI Title Generator"
 &gt;
 &lt;p&gt;I was browsing LinkedIn and a few other platforms, looking for sysadmin or system engineer positions.
