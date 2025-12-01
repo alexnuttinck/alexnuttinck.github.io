@@ -12,7 +12,7 @@ menu:
     weight: 8
 ---
 
-{{< img src="/posts/8-the-accidental-production.png" title="Adventures in Uptime - The Accidental Production" >}}
+{{< img src="/posts/adventures-in-uptime/8-the-accidental-production.png" title="Adventures in Uptime - The Accidental Production" >}}
 
 It started as a simple mission: build a Kubernetes POC to explore the benefits and rethink the current architecture.
 The demo worked, the checklist was green, everyone was happy.
