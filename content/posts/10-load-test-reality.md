@@ -11,6 +11,7 @@ menu:
     parent: adventures-in-uptime
     weight: 10
 ---
+
 {{< img src="/posts/adventures-in-uptime/10-load-test-reality.png" title="Adventures in Uptime - Load Test Reality" >}}
 
 It was a new mission: run performance tests on an application built by another consultant. The goal was simple: either confirm everything was fine, or prove there were real performance issues.
