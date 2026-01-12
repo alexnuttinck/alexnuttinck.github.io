@@ -13,7 +13,22 @@ alt="Adventures in Uptime - Load Test Reality"
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;We tested with JMeter. It scales perfectly. No problem.&amp;rdquo;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Let’s just say&amp;hellip; our results didn’t exactly match that statement.&lt;/p&gt;</description></item><item><title>The Coffee Crisis</title><link>https://alexnuttinck.dev/posts/9-the-coffee-crisis/</link><pubDate>Tue, 09 Dec 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/9-the-coffee-crisis/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/9-the-coffee-crisis.png"
+&lt;p&gt;Let’s just say&amp;hellip; our results didn’t exactly match that statement.&lt;/p&gt;</description></item><item><title>Load Test Reality</title><link>https://alexnuttinck.dev/posts/11-just-use-nix/</link><pubDate>Mon, 15 Dec 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/11-just-use-nix/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/11-just-use-nix.png"
+alt="Adventures in Uptime - Just Use Nix"
+&gt;
+&lt;p&gt;It all started with a classic developer frustration:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Why doesn’t this app build the same way on my machine?!&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A colleague leaned over, smiling with the confidence of someone who has already been converted:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You should just use Nix.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;How complicated could it be?&lt;/p&gt;
+&lt;p&gt;Well&amp;hellip; Nix isn’t &lt;em&gt;just&lt;/em&gt; a package manager.
+It’s a whole paradigm shift: reproducibility, determinism, portability, system stability: everything defined declaratively.
+It promises environments that never drift and setups that behave exactly the same everywhere.
+And then there’s &lt;strong&gt;NixOS&lt;/strong&gt;. Not just a tool, but an entire operating system built on the same ideas.&lt;/p&gt;</description></item><item><title>The Coffee Crisis</title><link>https://alexnuttinck.dev/posts/9-the-coffee-crisis/</link><pubDate>Tue, 09 Dec 2025 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/9-the-coffee-crisis/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/9-the-coffee-crisis.png"
 alt="Adventures in Uptime - The Coffee Crisis"
 &gt;
 &lt;p&gt;It’s a classic scene in any office&amp;hellip; but even more so in IT. Caffeine consumption is high, dependency is real, and when the coffee machine goes down, everything suddenly becomes a critical incident.&lt;/p&gt;
