@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 12 Jan 2026 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Just Use Nix</title><link>https://alexnuttinck.dev/posts/11-just-use-nix/</link><pubDate>Mon, 12 Jan 2026 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/11-just-use-nix/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/11-just-use-nix.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Alexandre Nuttinck</title><link>https://alexnuttinck.dev/posts/</link><description>Recent content in Posts on Alexandre Nuttinck</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Jan 2026 10:00:00 +0200</lastBuildDate><atom:link href="https://alexnuttinck.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alias of Shame</title><link>https://alexnuttinck.dev/posts/12-alias-of-shame/</link><pubDate>Mon, 19 Jan 2026 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/12-alias-of-shame/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/12-alias-of-shame.png"
+alt="Adventures in Uptime - Alias of Shame"
+&gt;
+&lt;p&gt;Mistakes happen.
+Even in carefully planned communication campaigns.&lt;/p&gt;
+&lt;p&gt;One day, a brand-new email campaign was sent out to a large audience. Everything looked fine&amp;hellip; until someone noticed it.&lt;/p&gt;
+&lt;p&gt;The email address in the communication was wrong.&lt;/p&gt;
+&lt;p&gt;Panic followed quickly.&lt;/p&gt;
+&lt;p&gt;Instead of preparing a simple correction and sending a follow-up email with the proper address, the communication team came to us with a different request:&lt;/p&gt;</description></item><item><title>Just Use Nix</title><link>https://alexnuttinck.dev/posts/11-just-use-nix/</link><pubDate>Mon, 12 Jan 2026 10:00:00 +0200</pubDate><guid>https://alexnuttinck.dev/posts/11-just-use-nix/</guid><description>&lt;img src="https://alexnuttinck.dev/posts/adventures-in-uptime/11-just-use-nix.png"
 alt="Adventures in Uptime - Just Use Nix"
 &gt;
 &lt;p&gt;It all started with a classic developer frustration:&lt;/p&gt;
