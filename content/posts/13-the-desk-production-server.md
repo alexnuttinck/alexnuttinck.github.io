@@ -9,7 +9,7 @@ menu:
     name: 13 - The Desk Production Server
     identifier: 13-the-desk-production-server
     parent: adventures-in-uptime
-    weight: 13
+    weight: 14
 ---
 
 {{< img src="/posts/adventures-in-uptime/13-the-desk-production-server.png" title="Adventures in Uptime - The Desk Production Server" >}}
