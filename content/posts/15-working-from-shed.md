@@ -1,6 +1,6 @@
 ---
 title: "Working from Shed"
-date: 2026-02-02T10:00:00+02:00
+date: 2026-02-09T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
 description: Adventures in Uptime 15 - Working from Shed
 theme: Toha
