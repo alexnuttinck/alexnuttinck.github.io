@@ -15,8 +15,8 @@ skills:
 
 - name: Kubernetes
   logo: "images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing applications on Kubernetes."
-  url: "https://kubernetes.io/"
+  summary: "Capable of deploying, managing applications on Kubernetes. Certified Kubernetes Administrator (CKA)."
+  url: "https://www.credly.com/badges/b47012be-1940-4229-bcca-84eea15765e4/"
 
 - name: Helm
   logo: "images/sections/skills/helm.png"
