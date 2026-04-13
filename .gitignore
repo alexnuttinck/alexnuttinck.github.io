@@ -8,3 +8,6 @@ resources/
 
 # node_modules
 node_modules/
+
+# IDE/editor generated files
+assets/jsconfig.json
