@@ -12,7 +12,7 @@ menu:
     weight: 23
 ---
 
-{{< img src="/posts/adventures-in-uptime/22-the-update-panic" title="Adventures in Uptime - The Update Panic" >}}
+{{< img src="/posts/adventures-in-uptime/22-the-update-panic.png" title="Adventures in Uptime - The Update Panic" >}}
 
 I’ve worked with a lot of developers over the years, but there is one I’ll never forget. His code was... fine. Mostly functional. But the moment it was time to deploy? Total meltdown.
 
