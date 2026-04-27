@@ -12,7 +12,7 @@ menu:
     weight: 24
 ---
 
-{{< img src="/posts/adventures-in-uptime/23-the-cowboy-sysadmin" title="Adventures in Uptime - The Cowboy Sysadmin" >}}
+{{< img src="/posts/adventures-in-uptime/23-the-cowboy-sysadmin.png" title="Adventures in Uptime - The Cowboy Sysadmin" >}}
 
 The Grafana dashboards are glowing a reassuring green, and the ticket queue is finally down to single digits, when he walks into the open space.
 
