@@ -12,8 +12,6 @@ menu:
     weight: 28
 ---
 
-# website
-
 {{< img src="/posts/adventures-in-uptime/27-annual-review-season.png" title="Adventures in Uptime - Annual Review Season" >}}
 
 It’s a classic tale in the world of IT and operations. All year long, you grind through on-call nights, manage complex migrations, and extinguish fires before anyone even realizes there was smoke. You look at your screens, and everything is beautifully stable. All systems are operational.
