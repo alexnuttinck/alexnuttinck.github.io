@@ -16,15 +16,18 @@ degrees:
   institution:
     name: University of Namur
     url: "https://www.unamur.be/"
+    logo: /images/experiences/unamur.png
 - name: Bachelor's degree in Computer Science
   icon: fa-graduation-cap
   timeframe: 2011-2015
   institution:
     name: University of Namur
     url: "https://www.unamur.be/"
+    logo: /images/experiences/unamur.png
 - name: Secondary School Certificate
   icon: fa-school
   timeframe: 2005-2011
   institution:
     name: Collège Saint Guibert de Gembloux
     url: "https://www.collegesaintguibert.be"
+    logo: /images/experiences/college-saint-guibert.png

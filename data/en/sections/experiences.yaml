@@ -13,6 +13,7 @@ experiences:
     name: iMio
     url: "https://www.imio.be/"
     location: Les Isnes, Walloon region, Belgium
+    logo: /images/experiences/imio.png
   positions:
   - designation: DevOps Team Lead
     start: Jan 2024
@@ -28,6 +29,8 @@ experiences:
     name: Unamur
     url: "https://www.unamur.be/en"
     location: Namur, Walloon region, Belgium
+    logo: /images/experiences/unamur.png
+    darkLogo: /images/experiences/unamur-dark.png
   positions:
   - designation: Linux System Administrator
     start: Apr 2021
@@ -43,6 +46,7 @@ experiences:
     name: CETIC
     url: "https://www.cetic.be/?lang=en"
     location: Charleroi Gosselies, Walloon region, Belgium
+    logo: /images/experiences/cetic.png
     # company overview
     overview: CETIC is an applied research center in the field of ICT. CETIC’s mission is to support economic development by transferring the results of the most innovative research in ICT to companies, particularly SMEs. 
   positions:
@@ -60,6 +64,8 @@ experiences:
     url: "https://www.inria.fr/en"
     location: Rennes, France
     overview: National Institute for Research in Digital Science and Technology.
+    logo: /images/experiences/inria.png
+    darkLogo: /images/experiences/inria-dark.png
   positions:
   - designation: Research Internship
     start: Sep 2016
