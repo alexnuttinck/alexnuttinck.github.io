@@ -2,6 +2,7 @@
 title: "Version Control by Outlook"
 date: 2026-03-23T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/20-version-control-by-outlook.jpg"]
 description: Adventures in Uptime 20 - Version Control by Outlook
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 21
 ---
 
-{{< img src="/posts/adventures-in-uptime/20-version-control-by-outlook.png" title="Adventures in Uptime - Version Control by Outlook" >}}
+{{< img src="/posts/adventures-in-uptime/20-version-control-by-outlook.jpg" title="Adventures in Uptime - Version Control by Outlook" >}}
 
 We’ve all been there: joining a new project, grabbing a fresh cup of coffee, and asking the developer the most basic, innocent question imaginable:
 

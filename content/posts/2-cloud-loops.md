@@ -2,6 +2,7 @@
 title: "Cloud Loops"
 date: 2025-10-22T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/2-cloud-loops.jpg"]
 description: Adventures in Uptime 2 - Cloud Loops
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 2
 ---
 
-{{< img src="/posts/adventures-in-uptime/2-cloud-loops.png" title="Adventures in Uptime - Cloud Loops" >}}
+{{< img src="/posts/adventures-in-uptime/2-cloud-loops.jpg" title="Adventures in Uptime - Cloud Loops" >}}
 
 It happened during a mission for a client.
 They had decided to move everything to AWS, hoping to scale faster and more easily than with their old bare-metal self-hosted infrastructure.

@@ -2,6 +2,7 @@
 title: "Working from Shed"
 date: 2026-02-09T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/15-working-from-shed.jpg"]
 description: Adventures in Uptime 15 - Working from Shed
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 16
 ---
 
-{{< img src="/posts/adventures-in-uptime/15-working-from-shed.png" title="Adventures in Uptime - Working from Shed" >}}
+{{< img src="/posts/adventures-in-uptime/15-working-from-shed.jpg" title="Adventures in Uptime - Working from Shed" >}}
 
 Remote work has invited us into everyone’s homes. We’ve all seen the kitchen counters, the unmade beds in the background, or the cats walking across keyboards.
 

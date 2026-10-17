@@ -2,6 +2,7 @@
 title: "The Schrödinger Server"
 date: 2026-05-03T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/24-the-schrodinger-server.jpg"]
 description: Adventures in Uptime 24 - The Schrödinger Server
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 25
 ---
 
-{{< img src="/posts/adventures-in-uptime/24-the-schrodinger-server.png" title="Adventures in Uptime - The Schrödinger Server" >}}
+{{< img src="/posts/adventures-in-uptime/24-the-schrodinger-server.jpg" title="Adventures in Uptime - The Schrödinger Server" >}}
 
 Before we dive into today's infrastructure mystery, you might notice a slight shift in the comic's aesthetic! Starting with this story, I've switched the AI image generation model I use from *gpt-image-1* to *Nano Banana Pro*. 
 

@@ -2,6 +2,7 @@
 title: "The Intern Factory"
 date: 2026-03-16T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/19-the-intern-factory.jpg"]
 description: Adventures in Uptime 19 - The Intern Factory
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 20
 ---
 
-{{< img src="/posts/adventures-in-uptime/19-the-intern-factory.png" title="Adventures in Uptime - The Intern Factory" >}}
+{{< img src="/posts/adventures-in-uptime/19-the-intern-factory.jpg" title="Adventures in Uptime - The Intern Factory" >}}
 
 Ah, the memories of early consulting missions. You walk into a new client's office, expecting the usual setup: a grizzled senior dev nursing their third coffee, a stressed sysadmin, and a project manager asking for the impossible by Friday.
 

@@ -2,6 +2,7 @@
 title: "Baptism of Fire"
 date: 2026-04-13T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/21-baptism-of-fire.jpg"]
 description: Adventures in Uptime 21 - Baptism of Fire
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 22
 ---
 
-{{< img src="/posts/adventures-in-uptime/21-baptism-of-fire.png" title="Adventures in Uptime - Baptism of Fire" >}}
+{{< img src="/posts/adventures-in-uptime/21-baptism-of-fire.jpg" title="Adventures in Uptime - Baptism of Fire" >}}
 
 It started like any normal morning. Coffee in hand, sleepy colleagues, the gentle hum of the open space. And then... total darkness.
 

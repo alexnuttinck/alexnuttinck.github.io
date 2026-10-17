@@ -2,6 +2,7 @@
 title: "The Blue Screen of Container Death"
 date: 2025-10-29T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/3-the-blue-screen-of-container-death.jpg"]
 description: Adventures in Uptime 3 - The Blue Screen of Container Death
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 3
 ---
 
-{{< img src="/posts/adventures-in-uptime/3-the-blue-screen-of-container-death.png" title="Adventures in Uptime - The Blue Screen of Container Death" >}}
+{{< img src="/posts/adventures-in-uptime/3-the-blue-screen-of-container-death.jpg" title="Adventures in Uptime - The Blue Screen of Container Death" >}}
 
 It started as a new and exciting mission.
 The client needed help setting up proper CI/CD pipelines and introducing DevOps best practices. Everything sounded great.

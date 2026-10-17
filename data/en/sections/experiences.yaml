@@ -25,6 +25,7 @@ experiences:
     - "deploy and manage multi-tenant Odoo instances."    
   - designation: DevOps Engineer
     start: Aug 2023
+    end: Dec 2023
 - company:
     name: Unamur
     url: "https://www.unamur.be/en"
@@ -56,7 +57,7 @@ experiences:
     responsibilities:
     - "participate in Walloon and European research projects in the field of distributed systems." 
     - "support SMEs by transferring research results, mainly about deployment automation (Infrastructure-as-code) and the related best partices."
-    - "develop opensource projects like [FADI](https://fadi.cetic.be/) a framework for big data analytics based on [Kubernetes](https://kubernetes.io/)."
+    - "develop opensource projects like [FADI](https://github.com/cetic/fadi) a framework for big data analytics based on [Kubernetes](https://kubernetes.io/)."
     - "work on the infrastructure of the [INAH](https://www.cetic.be/INAH-en) pilot project which aims at creating a Walloon entity for enabling the ethical use of electronic health information."
 
 - company:

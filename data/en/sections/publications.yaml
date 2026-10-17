@@ -85,7 +85,7 @@ publications:
   categories: ["papers"]
   tags: ["Big Data", "Deployment", "DevOps", "Kubernetes", "Helm", "Open Source"]
 
-- title: "Cloud Costs Blog Article (FR)"
+- title: "Quelques conseils et points d'attention pour estimer vos coûts d'infrastructure"
   publishedIn:
     name: CETIC's blog
     date: 23 August 2019 
@@ -99,11 +99,11 @@ publications:
   categories: ["articles"]
   tags: ["DevOps", "Cloud Providers", "Cloud Costs"]
 
-- title: "PaaS Blog Article"
+- title: "Optimize your costs and productivity by migrating to the PaaS: use case"
   publishedIn:
     name: CETIC's blog
     date: 9 July 2019
-    url: "https://www.admin-magazine.com/Archive/2018/47/Automatic-build-and-deploy-with-OpenShift-and-GitLab-CI"
+    url: "https://www.cetic.be/Optimize-your-costs-and-productivity-by-migrating-to-the-PaaS-use-case"
   authors:
   - name: Alexandre Nuttinck
   - name: Rami Sellami

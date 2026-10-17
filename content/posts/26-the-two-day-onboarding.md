@@ -2,6 +2,7 @@
 title: "The Two-Day Onboarding"
 date: 2026-05-19T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/26-the-two-day-onboarding.jpg"]
 description: Adventures in Uptime 26 - The Two-Day Onboarding
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 27
 ---
 
-{{< img src="/posts/adventures-in-uptime/26-the-two-day-onboarding.png" title="Adventures in Uptime - The Two-Day Onboarding" >}}
+{{< img src="/posts/adventures-in-uptime/26-the-two-day-onboarding.jpg" title="Adventures in Uptime - The Two-Day Onboarding" >}}
 
 There is an unspoken rule in IT: the amount of time an employee stays at a company is inversely proportional to the effort it took to bring them there.
 

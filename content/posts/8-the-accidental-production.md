@@ -2,6 +2,7 @@
 title: "The Accidental Production"
 date: 2025-12-01T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/8-the-accidental-production.jpg"]
 description: Adventures in Uptime 8 - The Accidental Production
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 8
 ---
 
-{{< img src="/posts/adventures-in-uptime/8-the-accidental-production.png" title="Adventures in Uptime - The Accidental Production" >}}
+{{< img src="/posts/adventures-in-uptime/8-the-accidental-production.jpg" title="Adventures in Uptime - The Accidental Production" >}}
 
 It started as a simple mission: build a Kubernetes POC to explore the benefits and rethink the current architecture.
 The demo worked, the checklist was green, everyone was happy.

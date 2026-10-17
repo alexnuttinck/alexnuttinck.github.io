@@ -2,6 +2,7 @@
 title: "Caught by Your Own Phish"
 date: 2026-02-02T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/14-caught-by-your-own-phish.jpg"]
 description: Adventures in Uptime 14 - Caught by Your Own Phish
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 15
 ---
 
-{{< img src="/posts/adventures-in-uptime/14-caught-by-your-own-phish.png" title="Adventures in Uptime - Caught by Your Own Phish" >}}
+{{< img src="/posts/adventures-in-uptime/14-caught-by-your-own-phish.jpg" title="Adventures in Uptime - Caught by Your Own Phish" >}}
 
 We often talk about the "human firewall" in cybersecurity. But sometimes, that firewall has a few open ports due to distraction.
 

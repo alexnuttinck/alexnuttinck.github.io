@@ -29,7 +29,7 @@ hugo mod tidy && hugo mod npm pack && npm install
 All blog posts live under `content/posts/`. The main series is **"Adventures in Uptime"** — a numbered sequence of humorous DevOps/sysadmin anecdotes with comic panel images.
 
 - Story files: `content/posts/[N]-[slug].md`
-- Story images: `content/posts/adventures-in-uptime/[N]-[slug].png`
+- Story images: `content/posts/adventures-in-uptime/[N]-[slug].jpg` — JPEG, longest side ≤ 1600px, quality 85. The theme serves them unprocessed, so convert generated PNGs before committing: `magick in.png -resize '1600x1600>' -quality 85 [N]-[slug].jpg`
 - Series index: `content/posts/adventures-in-uptime.md`
 
 ### Front Matter Pattern for Stories
@@ -39,6 +39,7 @@ All blog posts live under `content/posts/`. The main series is **"Adventures in 
 title: "Human Readable Title"
 date: YYYY-MM-DDTHH:MM:SS+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/[N]-[slug].jpg"]  # social preview (og:image)
 description: "Adventures in Uptime N - Title"
 theme: Toha
 menu:
@@ -52,7 +53,7 @@ menu:
 
 Image embed inside post body:
 ```
-{{< img src="/posts/adventures-in-uptime/[N]-[slug].png" title="..." >}}
+{{< img src="/posts/adventures-in-uptime/[N]-[slug].jpg" title="..." >}}
 ```
 
 ### Site Data

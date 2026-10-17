@@ -2,6 +2,7 @@
 title: "The Update Panic"
 date: 2026-04-21T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/22-the-update-panic.jpg"]
 description: Adventures in Uptime 22 - The Update Panic
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 23
 ---
 
-{{< img src="/posts/adventures-in-uptime/22-the-update-panic.png" title="Adventures in Uptime - The Update Panic" >}}
+{{< img src="/posts/adventures-in-uptime/22-the-update-panic.jpg" title="Adventures in Uptime - The Update Panic" >}}
 
 I’ve worked with a lot of developers over the years, but there is one I’ll never forget. His code was... fine. Mostly functional. But the moment it was time to deploy? Total meltdown.
 

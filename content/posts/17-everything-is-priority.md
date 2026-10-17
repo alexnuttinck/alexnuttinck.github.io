@@ -2,6 +2,7 @@
 title: "Everything is Priority"
 date: 2026-03-01T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/17-everything-is-priority.jpg"]
 description: Adventures in Uptime 17 - Everything is Priority
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 18
 ---
 
-{{< img src="/posts/adventures-in-uptime/17-everything-is-priority.png" title="Adventures in Uptime - Everything is Priority" >}}
+{{< img src="/posts/adventures-in-uptime/17-everything-is-priority.jpg" title="Adventures in Uptime - Everything is Priority" >}}
 
 We’ve all been in that meeting.
 The one where the manager stands in front of a whiteboard covered in sticky notes, eyes wide with excitement.

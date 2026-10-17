@@ -2,6 +2,7 @@
 title: "The Desk Production Server"
 date: 2026-01-26T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/13-the-desk-production-server.jpg"]
 description: Adventures in Uptime 13 - The Desk Production Server
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 14
 ---
 
-{{< img src="/posts/adventures-in-uptime/13-the-desk-production-server.png" title="Adventures in Uptime - The Desk Production Server" >}}
+{{< img src="/posts/adventures-in-uptime/13-the-desk-production-server.jpg" title="Adventures in Uptime - The Desk Production Server" >}}
 
 We live in the era of the Cloud, Kubernetes clusters, and geo-redundant data centers. But sometimes, the most critical infrastructure is much closer to the ground. Literally.
 

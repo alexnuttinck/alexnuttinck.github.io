@@ -2,6 +2,7 @@
 title: "Bitnamipocalypse"
 date: 2026-02-16T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/16-bitnamipocalypse.jpg"]
 description: Adventures in Uptime 16 - Bitnamipocalypse
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 17
 ---
 
-{{< img src="/posts/adventures-in-uptime/16-bitnamipocalypse.png" title="Adventures in Uptime - Bitnamipocalypse" >}}
+{{< img src="/posts/adventures-in-uptime/16-bitnamipocalypse.jpg" title="Adventures in Uptime - Bitnamipocalypse" >}}
 
 Do you remember where you were last summer when the notification popped up?
 

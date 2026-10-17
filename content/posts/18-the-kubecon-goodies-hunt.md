@@ -2,6 +2,7 @@
 title: "The KubeCon Goodies Hunt"
 date: 2026-03-10T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/18-the-kubecon-goodies-hunt.jpg"]
 description: Adventures in Uptime 18 - The KubeCon Goodies Hunt
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 19
 ---
 
-{{< img src="/posts/adventures-in-uptime/18-the-kubecon-goodies-hunt.png" title="Adventures in Uptime - The KubeCon Goodies Hunt" >}}
+{{< img src="/posts/adventures-in-uptime/18-the-kubecon-goodies-hunt.jpg" title="Adventures in Uptime - The KubeCon Goodies Hunt" >}}
 
 We’ve all been there. You register for a major tech conference like KubeCon with the best intentions.
 You mark the schedule with all the deep-dive technical sessions you want to attend. You promise yourself you’ll network with industry leaders and learn about the latest in service mesh architecture.

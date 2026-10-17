@@ -2,6 +2,7 @@
 title: "Just Use Nix"
 date: 2026-01-12T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/11-just-use-nix.jpg"]
 description: Adventures in Uptime 11 - Just Use Nix
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 12
 ---
 
-{{< img src="/posts/adventures-in-uptime/11-just-use-nix.png" title="Adventures in Uptime - Just Use Nix" >}}
+{{< img src="/posts/adventures-in-uptime/11-just-use-nix.jpg" title="Adventures in Uptime - Just Use Nix" >}}
 
 
 It all started with a classic developer frustration:

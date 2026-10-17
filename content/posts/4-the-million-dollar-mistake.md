@@ -2,6 +2,7 @@
 title: "The Million-Dollar Mistake"
 date: 2025-11-03T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/4-the-million-dollar-mistake.jpg"]
 description: Adventures in Uptime 4 - The Million-Dollar Mistake
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 4
 ---
 
-{{< img src="/posts/adventures-in-uptime/4-the-million-dollar-mistake.png" title="Adventures in Uptime - The Million-Dollar Mistake" >}}
+{{< img src="/posts/adventures-in-uptime/4-the-million-dollar-mistake.jpg" title="Adventures in Uptime - The Million-Dollar Mistake" >}}
 
 A major project had just been approved: a collaboration between several partners, with a generous budget to set up new infrastructure.
 One partner was in charge of purchasing the servers and hosting them in their datacenter.

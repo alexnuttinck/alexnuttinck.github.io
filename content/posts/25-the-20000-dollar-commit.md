@@ -2,6 +2,7 @@
 title: "The 20,000-Dollar Commit"
 date: 2026-05-03T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/25-the-20000-dollar-commit.jpg"]
 description: Adventures in Uptime 25 - The 20,000-Dollar Commit
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 25
 ---
 
-{{< img src="/posts/adventures-in-uptime/25-the-20000-dollar-commit.png" title="Adventures in Uptime - The 20,000-Dollar Commit" >}}
+{{< img src="/posts/adventures-in-uptime/25-the-20000-dollar-commit.jpg" title="Adventures in Uptime - The 20,000-Dollar Commit" >}}
 
 It started as a perfectly normal afternoon. A developer, happily working at their desk, pushed some code to a public repository.
 But that colleague made a tiny, seemingly harmless mistake. In the rush to get things done, he hardcoded an AWS access key and pushed it straight to a public repository.

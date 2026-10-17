@@ -2,6 +2,7 @@
 title: "Untouchable Server"
 date: 2025-11-17T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/6-untouchable-server.jpg"]
 description: Adventures in Uptime 6 - Untouchable Server
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 6
 ---
 
-{{< img src="/posts/adventures-in-uptime/6-untouchable-server.png" title="Adventures in Uptime - Untouchable Server" >}}
+{{< img src="/posts/adventures-in-uptime/6-untouchable-server.jpg" title="Adventures in Uptime - Untouchable Server" >}}
 
 Every IT team has that one server.
 The one sitting in the corner of the rack with a dusty case, a yellowed label that says “DO NOT TOUCH”, and an aura of mystery.

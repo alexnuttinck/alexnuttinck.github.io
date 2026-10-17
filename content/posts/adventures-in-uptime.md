@@ -2,6 +2,7 @@
 title: "Adventures in Uptime"
 date: 2025-10-12T09:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/cover.jpg"]
 description: Adventures in Uptime is a humorous comic series inspired by real-life moments from my IT career as a sysadmin and DevOps engineer. Each story is told in four panels, capturing the funny, frustrating, and all-too-familiar side of tech life. I created it to share my experiences with humor, while experimenting with what AI can bring to creative storytelling.
 theme: Toha
 menu:
@@ -27,6 +28,6 @@ It’s my way of saying: even when systems crash, coffee spills, and priorities 
 
 Here is the cover:
 
-{{< img src="/posts/adventures-in-uptime/cover.png" title="Adventures in Uptime - Cover" >}}
+{{< img src="/posts/adventures-in-uptime/cover.jpg" title="Adventures in Uptime - Cover" >}}
 
 Read the first episode here: [The Reproducibility Crisis](/posts/1-the-reproducibility-crisis/).

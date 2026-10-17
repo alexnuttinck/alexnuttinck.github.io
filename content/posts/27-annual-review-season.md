@@ -2,6 +2,7 @@
 title: "Annual Review Season"
 date: 2026-06-06T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/27-annual-review-season.jpg"]
 description: Adventures in Uptime 27 - Annual Review Season
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 28
 ---
 
-{{< img src="/posts/adventures-in-uptime/27-annual-review-season.png" title="Adventures in Uptime - Annual Review Season" >}}
+{{< img src="/posts/adventures-in-uptime/27-annual-review-season.jpg" title="Adventures in Uptime - Annual Review Season" >}}
 
 It’s a classic tale in the world of IT and operations. All year long, you grind through on-call nights, manage complex migrations, and extinguish fires before anyone even realizes there was smoke. You look at your screens, and everything is beautifully stable. All systems are operational.
 

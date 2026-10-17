@@ -76,7 +76,7 @@ params:
     theme:
       light: true # enable light theme. default "true"
       dark: true # enable dark theme. default "true"
-      defaultTheme: systel # can be either light, dark or system. default "system"
+      defaultTheme: system # can be either light, dark or system. default "system"
     darkMode:
       enable: true
       services:

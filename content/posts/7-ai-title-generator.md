@@ -2,6 +2,7 @@
 title: "AI Title Generator"
 date: 2025-11-24T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/7-ai-title-generator.jpg"]
 description: Adventures in Uptime 7 - AI Title Generator
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 7
 ---
 
-{{< img src="/posts/adventures-in-uptime/7-ai-title-generator.png" title="Adventures in Uptime - The AI Title Generator" >}}
+{{< img src="/posts/adventures-in-uptime/7-ai-title-generator.jpg" title="Adventures in Uptime - The AI Title Generator" >}}
 
 I was browsing LinkedIn and a few other platforms, looking for sysadmin or system engineer positions.
 Nothing. Or almost nothing.

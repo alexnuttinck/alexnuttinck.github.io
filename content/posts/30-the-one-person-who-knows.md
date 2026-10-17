@@ -2,6 +2,7 @@
 title: "The One Person Who Knows"
 date: 2026-07-07T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/30-the-one-person-who-knows.jpg"]
 description: Adventures in Uptime 30 - The One Person Who Knows
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 31
 ---
 
-{{< img src="/posts/adventures-in-uptime/30-the-one-person-who-knows.png" title="Adventures in Uptime - The One Person Who Knows" >}}
+{{< img src="/posts/adventures-in-uptime/30-the-one-person-who-knows.jpg" title="Adventures in Uptime - The One Person Who Knows" >}}
 
 Every company has one. That one sysadmin sitting behind a fortress of monitors, cables, and coffee cups. They are the legend of the open space. When a complex legacy system acts up, colleagues point at them in reverence and whisper:
 

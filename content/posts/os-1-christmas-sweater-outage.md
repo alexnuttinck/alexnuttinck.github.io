@@ -2,6 +2,7 @@
 title: "Christmas Sweater Outage"
 date: 2025-12-22T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/os-1-christmas-sweater-outage.jpg"]
 description: Adventures in Uptime One-Shot 1 - Christmas Sweater Outage
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 11
 ---
 
-{{< img src="/posts/adventures-in-uptime/os-1-christmas-sweater-outage.png" title="Adventures in Uptime - Christmas Sweater Outage" >}}
+{{< img src="/posts/adventures-in-uptime/os-1-christmas-sweater-outage.jpg" title="Adventures in Uptime - Christmas Sweater Outage" >}}
 
 We had a Christmas Sweater Day at the office with colleagues.
 Let’s just say... that day was particularly inspiring. 😄

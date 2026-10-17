@@ -2,6 +2,7 @@
 title: "The Midnight Doubt"
 date: 2026-06-22T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/29-the-midnight-doubt.jpg"]
 description: Adventures in Uptime 29 - The Midnight Doubt
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 30
 ---
 
-{{< img src="/posts/adventures-in-uptime/29-the-midnight-doubt.png" title="Adventures in Uptime - The Midnight Doubt" >}}
+{{< img src="/posts/adventures-in-uptime/29-the-midnight-doubt.jpg" title="Adventures in Uptime - The Midnight Doubt" >}}
 
 We've all been there. It’s 5:00 PM, you’re packing up your bag, and the client leans against your desk looking relaxed but serious with a casual request:
 

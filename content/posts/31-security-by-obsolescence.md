@@ -2,6 +2,7 @@
 title: "Security by Obsolescence"
 date: 2026-07-27T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/31-security-by-obsolescence.jpg"]
 description: Adventures in Uptime 31 - Security by Obsolescence
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 32
 ---
 
-{{< img src="/posts/adventures-in-uptime/31-security-by-obsolescence.png" title="Adventures in Uptime - Security by Obsolescence" >}}
+{{< img src="/posts/adventures-in-uptime/31-security-by-obsolescence.jpg" title="Adventures in Uptime - Security by Obsolescence" >}}
 
 Do you remember where you were in December 2021? If you work in IT, you probably do. The sky was falling. The internet was on fire. **Log4Shell** had just dropped, and suddenly, every Java application on the planet looked like a ticking time bomb.
 

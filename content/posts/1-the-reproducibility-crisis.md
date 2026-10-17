@@ -2,6 +2,7 @@
 title: "The Reproducibility Crisis"
 date: 2025-10-15T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/1-the-reproducibility-crisis.jpg"]
 description: Adventures in Uptime 1 - The Reproducibility Crisis
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 1
 ---
 
-{{< img src="/posts/adventures-in-uptime/1-the-reproducibility-crisis.png" title="Adventures in Uptime - The Reproducibility Crisis" >}}
+{{< img src="/posts/adventures-in-uptime/1-the-reproducibility-crisis.jpg" title="Adventures in Uptime - The Reproducibility Crisis" >}}
 
 This one goes back to one of my very first missions.
 I arrived at the client’s office, full of energy, ready to dive into their development environment.

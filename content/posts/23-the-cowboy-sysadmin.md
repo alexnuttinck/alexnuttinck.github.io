@@ -2,6 +2,7 @@
 title: "The Cowboy Sysadmin"
 date: 2026-04-27T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/23-the-cowboy-sysadmin.jpg"]
 description: Adventures in Uptime 23 - The Cowboy Sysadmin
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 24
 ---
 
-{{< img src="/posts/adventures-in-uptime/23-the-cowboy-sysadmin.png" title="Adventures in Uptime - The Cowboy Sysadmin" >}}
+{{< img src="/posts/adventures-in-uptime/23-the-cowboy-sysadmin.jpg" title="Adventures in Uptime - The Cowboy Sysadmin" >}}
 
 The Grafana dashboards are glowing a reassuring green, and the ticket queue is finally down to single digits, when he walks into the open space.
 

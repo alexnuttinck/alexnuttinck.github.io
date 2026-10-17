@@ -2,6 +2,7 @@
 title: "The Day Sysadmins Quit"
 date: 2025-11-10T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/5-the-day-sysadmins-quit.jpg"]
 description: Adventures in Uptime 5 - The Day Sysadmins Quit
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 5
 ---
 
-{{< img src="/posts/adventures-in-uptime/5-the-day-sysadmins-quit.png" title="Adventures in Uptime - The Day Sysadmins Quit" >}}
+{{< img src="/posts/adventures-in-uptime/5-the-day-sysadmins-quit.jpg" title="Adventures in Uptime - The Day Sysadmins Quit" >}}
 
 This story is inspired by something very real: the invisible work of system administrators.
 

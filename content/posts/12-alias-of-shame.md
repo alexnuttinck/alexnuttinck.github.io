@@ -2,6 +2,7 @@
 title: "Alias of Shame"
 date: 2026-01-19T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/12-alias-of-shame.jpg"]
 description: Adventures in Uptime 12 - Alias of Shame
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 13
 ---
 
-{{< img src="/posts/adventures-in-uptime/12-alias-of-shame.png" title="Adventures in Uptime - Alias of Shame" >}}
+{{< img src="/posts/adventures-in-uptime/12-alias-of-shame.jpg" title="Adventures in Uptime - Alias of Shame" >}}
 
 Mistakes happen.
 Even in carefully planned communication campaigns.

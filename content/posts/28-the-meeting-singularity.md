@@ -2,6 +2,7 @@
 title: "The Meeting Singularity"
 date: 2026-06-16T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/28-the-meeting-singularity.jpg"]
 description: Adventures in Uptime 28 - The Meeting Singularity
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 29
 ---
 
-{{< img src="/posts/adventures-in-uptime/28-the-meeting-singularity.png" title="Adventures in Uptime - The Meeting Singularity" >}}
+{{< img src="/posts/adventures-in-uptime/28-the-meeting-singularity.jpg" title="Adventures in Uptime - The Meeting Singularity" >}}
 
 It starts as a classic sysadmin trap. I was assigned to five projects at the same time... At first glance, you tell yourself, "Busy... but manageable.". After all, spinning up infrastructure and automating pipelines for multiple environments is just part of the job.
 

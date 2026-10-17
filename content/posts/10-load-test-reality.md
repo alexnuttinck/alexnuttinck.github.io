@@ -2,6 +2,7 @@
 title: "Load Test Reality"
 date: 2025-12-15T10:00:00+02:00
 hero: images/blog/adventures-in-uptime/banner.png
+images: ["/posts/adventures-in-uptime/10-load-test-reality.jpg"]
 description: Adventures in Uptime 10 - Load Test Reality
 theme: Toha
 menu:
@@ -12,7 +13,7 @@ menu:
     weight: 10
 ---
 
-{{< img src="/posts/adventures-in-uptime/10-load-test-reality.png" title="Adventures in Uptime - Load Test Reality" >}}
+{{< img src="/posts/adventures-in-uptime/10-load-test-reality.jpg" title="Adventures in Uptime - Load Test Reality" >}}
 
 It was a new mission: run performance tests on an application built by another consultant. The goal was simple: either confirm everything was fine, or prove there were real performance issues.
 
