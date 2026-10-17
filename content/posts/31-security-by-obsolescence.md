@@ -17,7 +17,7 @@ menu:
 
 Do you remember where you were in December 2021? If you work in IT, you probably do. The sky was falling. The internet was on fire. **Log4Shell** had just dropped, and suddenly, every Java application on the planet looked like a ticking time bomb.
 
-We were no exception. The C-suite was panicking, the security team was hyperventilating, and I was already mentally preparing to spend my entire weekend patching JAR files.
+We were no exception... I was already mentally preparing to spend my entire weekend patching JAR files.
 
 We saw the scanners hitting our firewalls. LDAP injections, JNDI lookups—the whole nasty catalog of exploits trying to break down our doors. We rushed to check our legacy monolith, convinced it was the weak link that would doom us all.
 
